@@ -5,9 +5,8 @@ Hello, I’m @Duyu09. &nbsp;&nbsp;&nbsp;A "Computer Programming Enthusiast".
 </div>
 
 <div style="display:inline-block;" align="center">
-Studying: 
-
  
+Studying: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
@@ -18,8 +17,6 @@ Studying:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
 Plan to study: 
-
-
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -30,8 +27,6 @@ Plan to study:
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 Common Tools: 
-
-
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
