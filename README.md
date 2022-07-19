@@ -1,13 +1,13 @@
-<div style="display:inline-block;">
+<div style="display:inline-block;" align="center">
 Hello, I’m @Duyu09. &nbsp;&nbsp;&nbsp;A "Computer Programming Enthusiast".
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duyu09&langs_count=10&layout=compact&show_icons=true&count_private=false&hide=prs&text_color=fff&bg_color=000">
 </div>
 
-<div style="display:inline-block;">
+<div style="display:inline-block;" align="center">
 Studying: 
 
-
+ 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
