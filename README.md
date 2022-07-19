@@ -3,7 +3,7 @@ Hello, I’m @Duyu09. &nbsp;&nbsp;&nbsp;A "Computer Programming Enthusiast".
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duyu09&langs_count=10&layout=compact&show_icons=true&count_private=false&hide=prs&text_color=fff&bg_color=000">
 </div>
-
+<br>
 <div style="display:inline-block;" align="center">
  
 Studying: 
