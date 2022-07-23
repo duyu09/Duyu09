@@ -20,7 +20,7 @@ Studying:
 
 Plan to study: 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![vb](https://img.shields.io/badge/VB-.net-blue)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
