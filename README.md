@@ -39,7 +39,7 @@ Common Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
 <br><br>
-My CSDN Blog:&nbsp; https://blog.csdn.net/QLU_Duyu?spm=1010.2135.3001.5421 <br>
+My CSDN Blog:&nbsp; https://blog.csdn.net/QLU_Duyu <br>
 My Github Blog:&nbsp; https://duyu09.github.io/ <br><br>
 Welcome to visit my blogs, you can learn more there. <br>
 </div>
