@@ -41,5 +41,5 @@ Common Tools:
 <br><br>
 My CSDN Blog:&nbsp; https://blog.csdn.net/QLU_Duyu <br>
 My Github Blog:&nbsp; https://duyu09.github.io/ <br><br>
-Welcome to visit my blogs, you can learn more there. <br>
+Welcome to visit my blogs, We can talk about information technology there! <br>
 </div>
