@@ -1,6 +1,6 @@
 <div style="display:inline-block;" align="center">
-Hello, I’m @Duyu09. &nbsp;&nbsp;&nbsp;A "Computer Programming Enthusiast".
-<br><br>
+<h4>Hello, I’m @Duyu09. &nbsp;&nbsp;&nbsp;A "Computer Programming Enthusiast".</h4>
+<br>
  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duyu09&langs_count=10&layout=compact&show_icons=true&count_private=false&hide=prs&text_color=fff&bg_color=000">
  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
@@ -38,10 +38,15 @@ Common Tools:
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
+<br>
+
+![info](https://github-readme-stats.vercel.app/api?username=duyu09&show_icons=true&count_private=true&hide=prs&theme=cobalt)
+
 <br><br>
 My Baidu Blog: &nbsp; https://author.baidu.com/home/1756639575860079 <br>
 My CSDN Blog: &nbsp; https://blog.csdn.net/QLU_Duyu <br>
 Welcome to visit my blogs, We can talk about information technology there! <br><br>
-<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_GitHub_HomePage" /></div>
+<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_GitHub_HomePage" /></div> 
+<div>Number of Total Followers: &nbsp; <img src="https://img.shields.io/github/followers/duyu09?label=Follow&style=social" /></div> 
 </div>
 
