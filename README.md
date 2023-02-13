@@ -40,6 +40,8 @@ Common Tools:
 
 <br><br>
 My Baidu Blog: &nbsp; https://author.baidu.com/home/1756639575860079 <br>
-My CSDN Blog: &nbsp; https://blog.csdn.net/QLU_Duyu <br><br>
-Welcome to visit my blogs, We can talk about information technology there! <br>
+My CSDN Blog: &nbsp; https://blog.csdn.net/QLU_Duyu <br>
+Welcome to visit my blogs, We can talk about information technology there! <br><br>
+<div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_GitHub_HomePage" /></div>
 </div>
+
