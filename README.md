@@ -241,3 +241,16 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 <div align="center">
 <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
 </div>
+
+<hr>
+
+<h3>Required For Audio Processing Experiments</h3>
+
+<video src="https://user-images.githubusercontent.com/92843163/229979488-c158c450-30ea-4100-8e91-23982c85d7ae.mp4" controls></video>
+
+<i><b>The Dull Ice Flower</b>&nbsp;-&nbsp;Timi&nbsp;Zhuo</i>
+
+<i>Released in 1998 in <b>Film and Television Golden Grand Hits</b></i>
+
+<i>This audio has been processed with pitch shifting and speed changing using DAPC software.</i>
+
