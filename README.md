@@ -275,3 +275,9 @@ Sing back and forth in my heart
 <div align="center">
 <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
 </div>
+
+<br>
+<div align="center" style="text-align:center;">
+ <h3>I am a student from Faculty of Computer Science & Technology, Qilu University of Technology.</h3>
+ <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:64%;border-radius:8px;">
+</div>
