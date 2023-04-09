@@ -41,6 +41,8 @@ Common Tools:
 <br>
 
 ![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duyu09&theme=github_dark)
+ 
+![info](https://github-readme-streak-stats.herokuapp.com/?user=duyu09&theme=dark&hide_border=true)
 
 <br><br>
 My Baidu Blog: &nbsp; https://author.baidu.com/home/1756639575860079 <br>
