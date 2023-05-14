@@ -274,6 +274,22 @@ The only thing that hasn't changed is the song
 Sing back and forth in my heart
 ```
 
+```
+我知道 半夜的星星会唱歌
+想家的夜晚
+它就这样和我一唱一和
+我知道 午后的清风会唱歌
+童年的蝉声
+它总是跟风一唱一和
+当手中握住繁华
+心情却变得荒芜
+才发现世上 一切都会变卦
+当青春剩下日记
+乌丝就要变成白发
+不变的只有那首歌
+在心中来回地唱
+```
+
 <div align="center">
 <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
 </div>
