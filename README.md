@@ -45,6 +45,7 @@ Common Tools:
 ![info](https://github-readme-streak-stats.herokuapp.com/?user=duyu09&theme=dark&hide_border=true)
 
 <br><br>
+My Home Page: &nbsp; https://sites.google.com/view/duyu09 <br> 
 My Baidu Blog: &nbsp; https://author.baidu.com/home/1756639575860079 <br>
 My CSDN Blog: &nbsp; https://blog.csdn.net/QLU_Duyu <br>
 Welcome to visit my blogs, We can talk about information technology there! <br><br>
@@ -244,7 +245,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 
 <h3>Required For Audio Processing Experiments</h3>
 
-<video src="https://user-images.githubusercontent.com/92843163/229985101-479a1032-ee2e-4b8e-9a41-98cc81db7891.mp4" controls></video>
+<video src="https://github.com/duyu09/Duyu09/assets/92843163/b9ea631b-d63b-424d-83a4-0c18dfe925c8" controls></video>
 
 <i><b>The Dull Ice Flower</b>&nbsp;-&nbsp;Timi&nbsp;Zhuo</i>
 
