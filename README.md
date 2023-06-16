@@ -245,7 +245,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 
 <h3>Required For Audio Processing Experiments</h3>
 
-<video src="https://github.com/duyu09/Duyu09/assets/92843163/b9ea631b-d63b-424d-83a4-0c18dfe925c8" controls></video>
+https://github.com/duyu09/Duyu09/assets/92843163/23789473-1492-4970-8716-305cf3056fde
 
 <i><b>The Dull Ice Flower</b>&nbsp;-&nbsp;Timi&nbsp;Zhuo</i>
 
@@ -253,7 +253,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 
 You can download FLAC file in Music repository.
 
-<video src="https://user-images.githubusercontent.com/92843163/229979488-c158c450-30ea-4100-8e91-23982c85d7ae.mp4" controls></video>
+https://user-images.githubusercontent.com/92843163/229979488-c158c450-30ea-4100-8e91-23982c85d7ae.mp4
 
 <i>This audio has been processed with pitch shifting and speed changing using <b>DAPC</b> software.</i>
 
@@ -298,5 +298,5 @@ Sing back and forth in my heart
 <br>
 <div align="center" style="text-align:center;">
  <h3>I am a student from Faculty of Computer Science & Technology, Qilu University of Technology.</h3>
- <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:64%;border-radius:8px;">
+ <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:64%;border-radius:20px;">
 </div>
