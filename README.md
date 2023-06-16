@@ -241,21 +241,21 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 
 </table>
 
-<hr>
+<br>
+<h2>Required For Audio Processing Experiments</h2>
 
-<h3>Required For Audio Processing Experiments</h3>
+- <i><b>The Dull Ice Flower</b>&nbsp;-&nbsp;Timi&nbsp;Zhuo</i>
 
-https://github.com/duyu09/Duyu09/assets/92843163/23789473-1492-4970-8716-305cf3056fde
+- <i>Released in 1998 in <b>Film and Television Golden Grand Hits</b></i>
 
-<i><b>The Dull Ice Flower</b>&nbsp;-&nbsp;Timi&nbsp;Zhuo</i>
+- You can download FLAC file in Music repository.
 
-<i>Released in 1998 in <b>Film and Television Golden Grand Hits</b></i>
+| 01.Original | 02.High | 03.Low |
+|-----|-----|-----|
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/23789473-1492-4970-8716-305cf3056fde" controls> | <video src="https://user-images.githubusercontent.com/92843163/229979488-c158c450-30ea-4100-8e91-23982c85d7ae.mp4" controls> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/43a61b06-1159-4370-aa91-476dc81519db" controls> |
+| Original Piece of this song. | <i>This audio has been processed with pitch shifting and speed changing using <b>DAPC</b> software.</i> | <i>This audio has been processed with changing sample rate tag only using <b>DAPC</b> software.</i> |
 
-You can download FLAC file in Music repository.
 
-https://user-images.githubusercontent.com/92843163/229979488-c158c450-30ea-4100-8e91-23982c85d7ae.mp4
-
-<i>This audio has been processed with pitch shifting and speed changing using <b>DAPC</b> software.</i>
 
 <br>
 
