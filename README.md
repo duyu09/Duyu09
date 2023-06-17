@@ -291,6 +291,14 @@ Sing back and forth in my heart
 在心中来回地唱
 ```
 
+## RELEASE NEW MUSIC
+### Little Tony's New Music Work
+
+| I Really Wanna Stay At Your House |
+| ----- |
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/cdd2763c-bf70-4f39-b153-79ca7d27b580"> |
+| **Author: _Little Tony_** |
+
 <div align="center">
 <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
 </div>
