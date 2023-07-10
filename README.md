@@ -255,7 +255,10 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/23789473-1492-4970-8716-305cf3056fde" controls> | <video src="https://user-images.githubusercontent.com/92843163/229979488-c158c450-30ea-4100-8e91-23982c85d7ae.mp4" controls> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/43a61b06-1159-4370-aa91-476dc81519db" controls> |
 | Original Piece of this song. | <i>This audio has been processed with pitch shifting and speed changing using <b>DAPC</b> software.</i> | <i>This audio has been processed with changing sample rate tag only using <b>DAPC</b> software.</i> |
 
-
+| 04.120_seconds | 05 | 06 |
+|-----|-----|-----|
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/3a2b37e2-da85-40b3-a865-a23ba07926a2" controls> | Processing... | Processing... |
+| Extended to 2 minutes, Sound quality loss is minimal. | <i>Processing...</i> | <i>Processing...</i> |
 
 <br>
 
