@@ -257,8 +257,8 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 
 | 04.120_seconds | 05 | 06 |
 |-----|-----|-----|
-| <video src="https://github.com/duyu09/Duyu09/assets/92843163/3a2b37e2-da85-40b3-a865-a23ba07926a2" controls> | Processing... | Processing... |
-| Extended to 2 minutes, Sound quality loss is minimal. | <i>Processing...</i> | <i>Processing...</i> |
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/3a2b37e2-da85-40b3-a865-a23ba07926a2" controls> | You can download at https://github.com/duyu09/Music/raw/main/CORE_100s_HD.flac | Processing... |
+| - Extended to 2 minutes, Sound quality loss is minimal.<br>- Encode Format: **AAC** <br><i>(Effective frequency domain: 0~24000 Hz)<i><br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **16 bit** | - Using IZOTOPE RX10 to repair high frequency.<br>- Encode Format: **FLAC**<br><i>(Effective frequency domain: 0~27180 Hz)<i><br>- <i>Sample Rate: **54360 Hz**</i><br>- Bit Rate: **24 bit** | <i>Processing...</i> |
 
 <br>
 
