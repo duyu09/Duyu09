@@ -253,16 +253,16 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 | 01.Original | 02.High | 03.Low |
 |-----|-----|-----|
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/23789473-1492-4970-8716-305cf3056fde" controls> | <video src="https://user-images.githubusercontent.com/92843163/229979488-c158c450-30ea-4100-8e91-23982c85d7ae.mp4" controls> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/43a61b06-1159-4370-aa91-476dc81519db" controls> |
-| Original Piece of this song. | <i>This audio has been processed with pitch shifting and speed changing using <b>DAPC</b> software.</i> | <i>This audio has been processed with changing sample rate tag only using <b>DAPC</b> software.</i> |
+| **Original Piece of this song**<br><br>- Encode Format: **AAC LC**<br> - Sample Rate: **48000 Hz**<br>- Bit Rate: **326 kbit/s** | <i>This audio has been processed with pitch shifting and speed changing using <b>DAPC</b> software.</i><br><br>- Encode Format: **AAC LC**<br><i>(Effective frequency domain: 0~21000 Hz)</i><br> - Sample Rate: **44100 Hz**<br>- Bit Rate: **323 kbit/s** | <i>This audio has been processed with changing sample rate tag only using <b>DAPC</b> software.</i><br><br>- Encode Format: **AAC LC**<br><i>(Effective frequency domain: 0~17200 Hz)</i><br> - Sample Rate: **48000 Hz**<br>- Bit Rate: **129 kbit/s** |
 
 | 04.120_seconds | 05 | 06 |
 |-----|-----|-----|
-| <video src="https://github.com/duyu09/Duyu09/assets/92843163/3a2b37e2-da85-40b3-a865-a23ba07926a2" controls> | You can download at https://github.com/duyu09/Music/raw/main/CORE_100s_HD.flac | Processing... |
-| - Extended to 2 minutes, Sound quality loss is minimal.<br>- Encode Format: **AAC** <br><i>(Effective frequency domain: 0~24000 Hz)<i><br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **16 bit** | - Using IZOTOPE RX10 to repair high frequency.<br>- Encode Format: **FLAC**<br><i>(Effective frequency domain: 0~27180 Hz)<i><br>- <i>Sample Rate: **54360 Hz**</i><br>- Bit Rate: **24 bit** | <i>Processing...</i> |
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/3a2b37e2-da85-40b3-a865-a23ba07926a2" controls> | You can download at [CORE_100s_HD.flac](https://github.com/duyu09/Music/raw/main/CORE_100s_HD.flac) | Processing... |
+| - Extended to 2 minutes, Used <i>WSOLA</i> Algorithm.<br><br>- Encode Format: **AAC** <br><i>(Effective frequency domain: 0~24000 Hz)</i><br>- Sample Rate: **48000 Hz**<br>- Bit Depth: **16 bit** | Using <i>IZOTOPE RX10</i> to repair high frequency.<br><br>- Encode Format: **FLAC**<br><i>(Effective frequency domain: 0~27180 Hz)<i><br>- <i>Sample Rate: **54360 Hz**</i><br>- Bit Depth: **24 bit** | <i>Processing...</i> |
 
 <br>
 
-<i><b>The lyrics of this piece of Music</b></i>
+<i><b>The lyrics of this piece of Music</b> (Translated to English)</i>
 
 ```
 I know the stars sing at midnight
@@ -276,22 +276,6 @@ When youth left diary
 Black hair became white
 The only thing that hasn't changed is the song
 Sing back and forth in my heart
-```
-
-```
-我知道 半夜的星星会唱歌
-想家的夜晚
-它就这样和我一唱一和
-我知道 午后的清风会唱歌
-童年的蝉声
-它总是跟风一唱一和
-当手中握住繁华
-心情却变得荒芜
-才发现世上 一切都会变卦
-当青春剩下日记
-乌丝就要变成白发
-不变的只有那首歌
-在心中来回地唱
 ```
 
 ## RELEASE NEW MUSIC
