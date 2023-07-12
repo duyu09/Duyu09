@@ -7,8 +7,7 @@
 </div>
 <br>
 <div style="display:inline-block;" align="center">
- 
-Studying: 
+  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
@@ -18,7 +17,6 @@ Studying:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
-Plan to study: 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![vb](https://img.shields.io/badge/VB-.net-blue)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
@@ -28,7 +26,6 @@ Plan to study:
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
-Common Tools: 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -45,9 +42,9 @@ Common Tools:
 ![info](https://github-readme-streak-stats.herokuapp.com/?user=duyu09&theme=dark&hide_border=true)
 
 <br><br>
-My Home Page: &nbsp; https://sites.google.com/view/duyu09 <br> 
-My Baidu Blog: &nbsp; https://author.baidu.com/home/1756639575860079 <br>
-My CSDN Blog: &nbsp; https://blog.csdn.net/QLU_Duyu <br>
+**My Home Page:** &nbsp; https://sites.google.com/view/duyu09 <br> 
+**My Baidu Blog:** &nbsp; https://author.baidu.com/home/1756639575860079 <br>
+**My CSDN Blog:** &nbsp; https://blog.csdn.net/QLU_Duyu <br>
 Welcome to visit my blogs, We can talk about information technology there! <br><br>
 <div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_GitHub_HomePage" /></div> 
 <div>Number of Total Followers: &nbsp; <img src="https://img.shields.io/github/followers/duyu09?label=Follow&style=social" /></div> 
@@ -255,10 +252,10 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/23789473-1492-4970-8716-305cf3056fde" controls> | <video src="https://user-images.githubusercontent.com/92843163/229979488-c158c450-30ea-4100-8e91-23982c85d7ae.mp4" controls> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/43a61b06-1159-4370-aa91-476dc81519db" controls> |
 | **Original Piece of this song**<br><br>- Encode Format: **AAC LC**<br> - Sample Rate: **48000 Hz**<br>- Bit Rate: **326 kbit/s** | <i>This audio has been processed with pitch shifting and speed changing using <b>DAPC</b> software.</i><br><br>- Encode Format: **AAC LC**<br><i>(Effective frequency domain: 0~21000 Hz)</i><br> - Sample Rate: **44100 Hz**<br>- Bit Rate: **323 kbit/s** | <i>This audio has been processed with changing sample rate tag only using <b>DAPC</b> software.</i><br><br>- Encode Format: **AAC LC**<br><i>(Effective frequency domain: 0~17200 Hz)</i><br> - Sample Rate: **48000 Hz**<br>- Bit Rate: **129 kbit/s** |
 
-| 04.120_seconds | 05 | 06 |
+| 04.120_seconds | 05.HD | 06.SD |
 |-----|-----|-----|
-| <video src="https://github.com/duyu09/Duyu09/assets/92843163/3a2b37e2-da85-40b3-a865-a23ba07926a2" controls> | You can download at [CORE_100s_HD.flac](https://github.com/duyu09/Music/raw/main/CORE_100s_HD.flac) | Processing... |
-| - Extended to 2 minutes, Used <i>WSOLA</i> Algorithm.<br><br>- Encode Format: **AAC** <br><i>(Effective frequency domain: 0~24000 Hz)</i><br>- Sample Rate: **48000 Hz**<br>- Bit Depth: **16 bit** | Using <i>IZOTOPE RX10</i> to repair high frequency.<br><br>- Encode Format: **FLAC**<br><i>(Effective frequency domain: 0~27180 Hz)<i><br>- <i>Sample Rate: **54360 Hz**</i><br>- Bit Depth: **24 bit** | <i>Processing...</i> |
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/3a2b37e2-da85-40b3-a865-a23ba07926a2" controls> | You can download at [CORE_100s_HD.flac](https://github.com/duyu09/Music/raw/main/CORE_100s_HD.flac) | <video src="https://github.com/duyu09/Duyu09/assets/92843163/984e6e15-83f9-4e15-99d6-777d7ac46742"> |
+| - Extended to 2 minutes, Used <i>WSOLA</i> Algorithm.<br><br>- Encode Format: **AAC** <br><i>(Effective frequency domain: 0~24000 Hz)</i><br>- Sample Rate: **48000 Hz**<br>- Bit Depth: **16 bit** | Using <i>IZOTOPE RX10</i> to repair high frequency.<br><br>- Encode Format: **FLAC**<br><i>(Effective frequency domain: 0~27180 Hz)<i><br>- <i>Sample Rate: **54360 Hz**</i><br>- Bit Depth: **24 bit** | Using <i>IZOTOPE RX10</i> to repair high frequency.<br><br>- Encode Format: **AAC**<br><i>(Effective frequency domain: 0~24000 Hz)<i><br>- <i>Sample Rate: **48000 Hz**</i><br>- Bit Rate: **321 kbit/s** |
 
 <br>
 
