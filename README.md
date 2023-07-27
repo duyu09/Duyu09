@@ -283,6 +283,13 @@ Sing back and forth in my heart
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/cdd2763c-bf70-4f39-b153-79ca7d27b580"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/62eeed8f-9e96-4ac7-8b67-891adc062d4e"> |
 | **_I Really Wanna Stay At Your House_**<br>**Author: _Little Tony_**<br><br>- Encode Format: **AAC**<br>- Sample Rate: **44100 Hz**<br>- Bit Rate: **132 kbit/s** | **_I Really Wanna Stay At Your House_**<br>**Author: _Little Tony_**<br><br>- Audio Encode Format: **Opus**<br>- Sample Rate: **24000 Hz**<br>- Bit Depth: **32 bit** |
 
+### Quỳnh Trang - _Khuya Nay Anh Đi Rời_
+
+| Audio | Video |
+| ----- | ----- |
+| Processing... | <video src="https://github.com/duyu09/Duyu09/assets/92843163/b1de4c48-5aae-4a0a-a408-4de161e62b62"> |
+| **_Khuya Nay Anh Đi Rời_**<br>**Author: _Quỳnh Trang_**<br><br>- Encode Format: **AV1**<br>- Sample Rate: **22050 Hz**<br>- Bit Rate: **122 kbit/s** | **_Khuya Nay Anh Đi Rời_**<br>**Author: _Quỳnh Trang_**<br><br>- Audio Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Depth: **32 bit** |
+
 
 <div align="center">
 <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
