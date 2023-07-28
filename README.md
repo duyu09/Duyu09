@@ -276,19 +276,19 @@ Sing back and forth in my heart
 ```
 
 ## RELEASE NEW MUSIC
-### Little Tony - _I Really Wanna Stay At Your House_
+#### Little Tony - _I Really Wanna Stay At Your House_
 
 | Audio | Video |
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/cdd2763c-bf70-4f39-b153-79ca7d27b580"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/62eeed8f-9e96-4ac7-8b67-891adc062d4e"> |
 | **_I Really Wanna Stay At Your House_**<br>**Author: _Little Tony_**<br><br>- Encode Format: **AAC**<br>- Sample Rate: **44100 Hz**<br>- Bit Rate: **132 kbit/s** | **_I Really Wanna Stay At Your House_**<br>**Author: _Little Tony_**<br><br>- Audio Encode Format: **Opus**<br>- Sample Rate: **24000 Hz**<br>- Bit Depth: **32 bit** |
 
-### Quỳnh Trang - _Khuya Nay Anh Đi Rời_
+#### Quỳnh Trang - _Khuya Nay Anh Đi Rồi_  &nbsp;&nbsp;(Album: _Khói Lam Chiều_)
 
 | Audio | Video |
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/79c7f7c6-328e-433a-94b4-ecefd1b11f0c"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/b1de4c48-5aae-4a0a-a408-4de161e62b62"> |
-| **_Khuya Nay Anh Đi Rời_**<br>**Author: _Quỳnh Trang_**<br><br>- Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **328 kbit/s** | **_Khuya Nay Anh Đi Rời_**<br>**Author: _Quỳnh Trang_**<br><br>- Audio Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Depth: **16 bit** |
+| **_Khuya Nay Anh Đi Rồi_**<br>**Author: _Quỳnh Trang_**<br><br>- Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **328 kbit/s** | **_Khuya Nay Anh Đi Rồi_**<br>**Author: _Quỳnh Trang_**<br><br>- Audio Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Depth: **16 bit** |
 
 
 <div align="center">
