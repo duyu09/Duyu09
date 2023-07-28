@@ -288,7 +288,7 @@ Sing back and forth in my heart
 | Audio | Video |
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/79c7f7c6-328e-433a-94b4-ecefd1b11f0c"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/b1de4c48-5aae-4a0a-a408-4de161e62b62"> |
-| **_Khuya Nay Anh Đi Rời_**<br>**Author: _Quỳnh Trang_**<br><br>- Encode Format: **AV1**<br>- Sample Rate: **22050 Hz**<br>- Bit Rate: **122 kbit/s** | **_Khuya Nay Anh Đi Rời_**<br>**Author: _Quỳnh Trang_**<br><br>- Audio Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Depth: **32 bit** |
+| **_Khuya Nay Anh Đi Rời_**<br>**Author: _Quỳnh Trang_**<br><br>- Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **328 kbit/s** | **_Khuya Nay Anh Đi Rời_**<br>**Author: _Quỳnh Trang_**<br><br>- Audio Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Depth: **16 bit** |
 
 
 <div align="center">
