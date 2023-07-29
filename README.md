@@ -90,6 +90,44 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/9fd4417e-29e1-493e-ae87-f859be01d342" width="48" height="48" />
       <br>C++
      </td>
+</tr>
+<tr>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/55d775f5-a771-4810-a353-3417254b73bd" width="48" height="48" />
+      <br>C#
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/6906984c-a907-4d73-a91f-c6d6f541ca3c" width="48" height="48" />
+      <br>CSS
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/106eedc5-96f1-4316-a3b7-d2e4320f48da" width="48" height="48" />
+      <br>D-Ocean
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/c15352b9-a15c-4101-a64e-14e46cb2f184" width="48" height="48" />
+      <br>Docker
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/fd37725f-7a01-4c8b-a286-3b28b70f696c" width="48" height="48" />
+      <br>Express
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/4979f475-8358-4ee3-9bd0-b4ea93422919" width="48" height="48" />
+      <br>FFmpeg
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/0face4b1-057c-4fcd-8879-6558e196185c" width="48" height="48" />
+      <br>Flask
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/63854b18-4f14-46f8-9504-0b260fce20bd" width="48" height="48" />
+      <br>Git
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/b22ddc27-5e0d-49bd-8a5e-f087ab1b6372" width="48" height="48" />
+      <br>GitHub
+     </td>
      
 
 
@@ -99,7 +137,8 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 
 
 
-  
+
+ 
 </tr>
 
 </table>
