@@ -128,18 +128,91 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/b22ddc27-5e0d-49bd-8a5e-f087ab1b6372" width="48" height="48" />
       <br>GitHub
      </td>
-     
+</tr>
+<tr>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/4a8e69a6-f333-4796-bddb-d7fc46ed525b" width="48" height="48" />
+      <br>GitLab
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/18dc9353-869a-459c-9421-59c0c583de66" width="48" height="48" />
+      <br>GoLang
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/8539815b-a156-466a-ba56-04a714c6b602" width="48" height="48" />
+      <br>GraphQL
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/4cc7bc57-9cea-4426-aa60-6a798ab17751" width="48" height="48" />
+      <br>HarmonyOS
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/896c5266-a1d6-4cf2-af43-201fe899a327" width="48" height="48" />
+      <br>HeroKu
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/07f475af-fc15-4838-b404-a23995c94fe7" width="48" height="48" />
+      <br>HTML
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/9fd67c91-6e7d-42fc-b588-86e506676d14" width="48" height="48" />
+      <br>Java
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/106b84c7-7735-4acf-820b-f4f3b2e58831" width="48" height="48" />
+      <br>JQuery
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/e67f8a5a-b9e7-4163-b49a-b0f0830e402e" width="48" height="48" />
+      <br>JavaScript
+     </td>
+</tr>
+<tr>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/a2fbe94e-12fb-4f1f-b638-e6719eee7d97" width="48" height="48" />
+      <br>Keras
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/7bfaf1fa-8b18-4ddb-9c8f-86c9187a9001" width="48" height="48" />
+      <br>Kubernetes
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/6f08e307-c520-4c89-9403-de9fe8c77786" width="48" height="48" />
+      <br>Laravel
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/15cb7757-60d7-43c7-b5fc-4e1cd981fe96" width="48" height="48" />
+      <br>Linux
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/292f2c1d-2c26-4d80-86e9-8b2046b388d8" width="48" height="48" />
+      <br>Markdown
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/31228512-8823-4df0-9a06-01db09557686" width="48" height="48" />
+      <br>Matplotlib
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/3232c76c-1c02-4bbe-a81b-6a1402887997" width="48" height="48" />
+      <br>MongoDB
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/9e599390-3341-4c94-bd95-b2e7e09a0438" width="48" height="48" />
+      <br>MySQL
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/187a557e-acea-4189-9a74-a02dcfa42dff" width="48" height="48" />
+      <br>Nginx
+     </td>
+</tr>
 
-
-
-
-
+    
 
 
 
 
  
-</tr>
+
 
 </table>
 
