@@ -256,13 +256,30 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/82832ebb-8e03-482e-a1d1-d7c5fa12da4b" width="48" height="48" />
       <br>PyTorch
      </td>
-
-
-
-
-
-
- 
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/e16f8b2b-40b0-4af5-a80a-b560e0093476" width="60" height="60" />
+      <br>QT
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/942c024b-68a2-402b-bc31-f569a7335a97" width="48" height="48" />
+      <br>R
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/c4232e1b-1909-4ffb-be37-dc5d75074f01" width="48" height="48" />
+      <br>RabbitMQ
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/a472c2ac-3426-4796-8f63-499c8cfe16fe" width="48" height="48" />
+      <br>React
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/a93eb196-de3b-4c7a-943a-dce93581dc74" width="48" height="48" />
+      <br>Redis
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/a147304d-a25d-46b0-a443-6d687b9d5f00" width="48" height="48" />
+      <br>Rest
+     </td>
 </tr>
     
 
