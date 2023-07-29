@@ -205,6 +205,58 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>Nginx
      </td>
 </tr>
+<tr>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/13a659ce-1928-40e4-8fae-b8ef1fa029d6" width="48" height="48" />
+      <br>NodeJS
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/405bbc26-2643-43cf-9eaa-0330ca193a93" height="32" />
+      <br>NPM
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/4902398d-560b-4708-bda9-aaa7900ec193" width="48" height="48" />
+      <br>Numpy
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/642978b0-6f60-488d-839b-557ac7209370" width="48" height="48" />
+      <br>NuxtJS
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/fedee1de-0fc5-47eb-a60d-5c3f3a77f713" width="48" height="48" />
+      <br>O'Reilly
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/06500fbf-9d85-404c-9ae1-ef1f9a3e26c2" width="60" height="60" />
+      <br>Pandas
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/f4842189-1317-4141-85d8-0ea57fce87e8" width="48" height="48" />
+      <br>PhotoShop
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/b7fbbff2-00e7-45e9-9ad2-2579574546a7" width="48" height="48" />
+      <br>PHP
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/1585b3cd-014e-4545-89dc-1e0d0ca578ae" width="48" height="48" />
+      <br>PostgreSQL
+     </td>
+
+     
+     
+
+
+ 
+
+
+
+
+
+
+
+ 
+</tr>
 
     
 
