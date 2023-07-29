@@ -1,4 +1,4 @@
-![CPP](https://github.com/duyu09/Duyu09/assets/92843163/edfd59e2-2afd-4576-acd3-326020cb5514)<div style="display:inline-block;" align="center">
+<div style="display:inline-block;" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=22&weight=500&lines=I+am+@Duyu09!;A+Computer+Programming+Enthusiast" />
 <br>
  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
