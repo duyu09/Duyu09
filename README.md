@@ -215,7 +215,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>NPM
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/4902398d-560b-4708-bda9-aaa7900ec193" width="48" height="48" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/4902398d-560b-4708-bda9-aaa7900ec193" width="60" />
       <br>Numpy
      </td>
      <td align="center" width="96">
@@ -242,13 +242,20 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/1585b3cd-014e-4545-89dc-1e0d0ca578ae" width="48" height="48" />
       <br>PostgreSQL
      </td>
-
-     
-     
-
-
- 
-
+</tr>
+<tr>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/0f5cafb8-7c19-4967-90ed-3f4c5fc4cdc7" width="48" height="48" />
+      <br>Postman
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/d72a8f2f-96f8-4c7f-aacf-8dfbc34a8f6c" width="48" height="48" />
+      <br>Python
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/82832ebb-8e03-482e-a1d1-d7c5fa12da4b" width="48" height="48" />
+      <br>PyTorch
+     </td>
 
 
 
@@ -257,7 +264,6 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 
  
 </tr>
-
     
 
 
