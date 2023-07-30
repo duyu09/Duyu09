@@ -240,7 +240,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
      </td>
      <td align="center" width="96">
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/1585b3cd-014e-4545-89dc-1e0d0ca578ae" width="48" height="48" />
-      <br>PostgreSQL
+      <br>PgSQL
      </td>
 </tr>
 <tr>
