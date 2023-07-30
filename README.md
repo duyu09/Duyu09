@@ -57,7 +57,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 <table align="center">
   <tr>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/3c87d92e-bcc0-433a-89bc-28309b91c2c1" width="48" height="48" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/319ca3b7-b93c-4863-99d5-dfd884ff2a93" width="48" height="48" />
       <br>Alibaba
      </td>
      <td align="center" width="96">
