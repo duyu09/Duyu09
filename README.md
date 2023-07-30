@@ -111,8 +111,8 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>Docker
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/fd37725f-7a01-4c8b-a286-3b28b70f696c" width="48" height="48" />
-      <br>Express
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/66fe4725-423e-4874-becd-1381c4da8f6f" width="48" height="48" />
+      <br>Electron
      </td>
      <td align="center" width="96">
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/4979f475-8358-4ee3-9bd0-b4ea93422919" width="48" height="48" />
@@ -145,8 +145,8 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>GraphQL
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/4cc7bc57-9cea-4426-aa60-6a798ab17751" width="48" height="48" />
-      <br>Harmony
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/7d2e3dad-6b0e-41c7-b5bb-e46e60a92993" width="48" height="48" />
+      <br>Hibernate
      </td>
      <td align="center" width="96">
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/896c5266-a1d6-4cf2-af43-201fe899a327" width="48" height="48" />
