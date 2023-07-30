@@ -1,9 +1,9 @@
 <div style="display:inline-block;" align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=22&weight=500&lines=I+am+@Duyu09!;A+Computer+Programming+Enthusiast" />
-<br>
- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duyu09&langs_count=10&layout=compact&show_icons=true&count_private=false&hide=prs&text_color=fff&bg_color=000">
- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=22&weight=500&lines=I+am+@Duyu09!;A+Computer+Programming+Enthusiast" />
+  <br>
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duyu09&langs_count=10&layout=compact&show_icons=true&count_private=false&hide=prs&text_color=fff&bg_color=000">
+  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 <br>
 <div style="display:inline-block;" align="center">
@@ -51,7 +51,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 </div>
 <br><br>
 <div style="display:inline-block;" align="center">
- <h1>Table of Some Useful Tools & Technology Stacks</h1>
+  <h1>Table of Some Useful Tools & Technology Stacks</h1>
 </div>
 <br>
 <table align="center">
@@ -420,7 +420,7 @@ Sing back and forth in my heart
 
 <br>
 <div style="display:inline-block;" align="center">
- <h1>RELEASE NEW MUSIC</h1>
+ <h1>Release New Music</h1>
 </div>
 #### Little Tony - _I Really Wanna Stay At Your House_
 
@@ -442,7 +442,7 @@ Sing back and forth in my heart
 | - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **328 kbit/s** | - Encode Format: **AAC**<br>- Sample Rate: **64000 Hz**<br>- Bit Rate: **305 kbit/s**<br>- Power By: **Spleeter** and **RX 10**|
 
 <div align="center">
-<img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
+  <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
 </div>
 
 <br>
