@@ -50,7 +50,9 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 <div>Number of Total Followers: &nbsp; <img src="https://img.shields.io/github/followers/duyu09?label=Follow&style=social" /></div> 
 </div>
 <br><br><br>
-<div style="display:inline-block;" align="center"><h3>Some Useful Tool & Technology Stack</h3></div>
+<div style="display:inline-block;" align="center">
+ <h2>Table of Some Useful Tool & Technology Stack</h2>
+</div>
 <br>
 <table align="center">
   <tr>
