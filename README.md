@@ -183,7 +183,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>Laravel
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/15cb7757-60d7-43c7-b5fc-4e1cd981fe96" width="48" height="48" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/87789a49-55f5-4717-82f2-b96254165632" width="48" height="48" />
       <br>Linux
      </td>
      <td align="center" width="96">
@@ -209,7 +209,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 </tr>
 <tr>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/13a659ce-1928-40e4-8fae-b8ef1fa029d6" width="48" height="48" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/d619ea9e-4088-49dd-afe6-c64b890bd573" width="48" height="48" />
       <br>NodeJS
      </td>
      <td align="center" width="96">
@@ -217,7 +217,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>NPM
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/4902398d-560b-4708-bda9-aaa7900ec193" width="48" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/2a39e1cf-520c-4e1a-a0a3-bbab7980bd20" width="48" />
       <br>Numpy
      </td>
      <td align="center" width="96">
@@ -225,8 +225,8 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>NuxtJS
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/fedee1de-0fc5-47eb-a60d-5c3f3a77f713" width="48" height="48" />
-      <br>O'Reilly
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/5ba222eb-d4c3-4052-b3f1-2bcb2bfa3abf" width="48" height="48" />
+      <br>.Net
      </td>
      <td align="center" width="96">
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/06500fbf-9d85-404c-9ae1-ef1f9a3e26c2" width="60" height="60" />
@@ -259,7 +259,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>PyTorch
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/e16f8b2b-40b0-4af5-a80a-b560e0093476" width="48" height="60" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/6bb4a2a4-5b63-43d0-8cfc-b1a203d2c080" width="48" height="48" />
       <br>QT
      </td>
      <td align="center" width="96">
@@ -351,7 +351,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>VueJS
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/723235b3-e657-4849-9556-99e885008d77" width="48" height="60" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/04206565-0fc3-4b8d-b7e4-8570d87eee22" width="48" height="60" />
       <br>Webpack
      </td>
      <td align="center" width="96">
