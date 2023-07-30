@@ -51,7 +51,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 </div>
 <br><br><br>
 <div style="display:inline-block;" align="center">
- <h2>Table of Some Useful Tool & Technology Stack</h2>
+ <h2>Table of Some Useful Tools & Technology Stacks</h2>
 </div>
 <br>
 <table align="center">
