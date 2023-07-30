@@ -229,7 +229,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>.Net
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/06500fbf-9d85-404c-9ae1-ef1f9a3e26c2" width="60" height="60" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/8fbc8651-1687-4327-99e6-a868a6837c5f" width="60" height="60" />
       <br>Pandas
      </td>
      <td align="center" width="96">
@@ -327,7 +327,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>Ubuntu
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/880ecee9-2e83-4771-a206-72cc294ac8a6" width="48" height="48" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/ec27eb5f-bb04-4bd1-846f-d7b37986edbd" width="48" height="48" />
       <br>VBA
      </td>
      <td align="center" width="96">
