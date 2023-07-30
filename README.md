@@ -281,6 +281,44 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>Rest
      </td>
 </tr>
+<tr>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/f607edb9-6cb7-4c46-845f-6bcd2fefe92f" width="48" height="48" />
+      <br>SK-Learn
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/5dbf2f94-256d-49f7-ad33-2c590a16d8c5" width="48" height="48" />
+      <br>Scipy
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/868eaab9-3fa8-489e-801e-30d563dd332c" width="48" height="48" />
+      <br>Seaborn
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/a037753b-ff84-482a-8a01-93005433f97d" width="60" height="60" />
+      <br>SpringBoot
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/e92f276d-9c56-403d-9cd4-ca20db723fa0" width="48" height="48" />
+      <br>SpringMVC
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/2d435a0f-9672-4c42-a56c-7d74d36450c8" width="48" height="48" />
+      <br>Swift
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/9d02ae93-fa85-49ae-b8c8-e6b726db0693" width="48" height="48" />
+      <br>Tailwind
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/58ce5899-f2e4-4dfd-9712-19ed9cf50c7b" width="48" height="48" />
+      <br>TensorFlow
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/30e1fc1b-7af8-47b9-9e91-943514e6f477" width="48" height="48" />
+      <br>TypeScript
+     </td>
+</tr>
     
 
 
