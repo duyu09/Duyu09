@@ -144,7 +144,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
      </td>
      <td align="center" width="96">
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/4cc7bc57-9cea-4426-aa60-6a798ab17751" width="48" height="48" />
-      <br>HarmonyOS
+      <br>Harmony
      </td>
      <td align="center" width="96">
       <img src="https://github.com/duyu09/Duyu09/assets/92843163/896c5266-a1d6-4cf2-af43-201fe899a327" width="48" height="48" />
@@ -211,11 +211,11 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>NodeJS
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/405bbc26-2643-43cf-9eaa-0330ca193a93" height="32" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/405bbc26-2643-43cf-9eaa-0330ca193a93" width="48" />
       <br>NPM
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/4902398d-560b-4708-bda9-aaa7900ec193" width="60" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/4902398d-560b-4708-bda9-aaa7900ec193" width="48" />
       <br>Numpy
      </td>
      <td align="center" width="96">
@@ -257,7 +257,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>PyTorch
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/e16f8b2b-40b0-4af5-a80a-b560e0093476" width="60" height="60" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/e16f8b2b-40b0-4af5-a80a-b560e0093476" width="48" height="60" />
       <br>QT
      </td>
      <td align="center" width="96">
