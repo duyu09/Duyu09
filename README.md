@@ -422,14 +422,15 @@ Sing back and forth in my heart
 <div style="display:inline-block;" align="center">
  <h1>Release New Music</h1>
 </div>
-#### Little Tony - _I Really Wanna Stay At Your House_
+
+#### 01. Little Tony - _I Really Wanna Stay At Your House_
 
 | Audio | Video |
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/cdd2763c-bf70-4f39-b153-79ca7d27b580"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/62eeed8f-9e96-4ac7-8b67-891adc062d4e"> |
 | **_I Really Wanna Stay At Your House_**<br>**Author: _Little Tony_**<br><br>- Encode Format: **AAC**<br>- Sample Rate: **44100 Hz**<br>- Bit Rate: **132 kbit/s** | **_I Really Wanna Stay At Your House_**<br>**Author: _Little Tony_**<br><br>- Audio Encode Format: **Opus**<br>- Sample Rate: **24000 Hz**<br>- Bit Depth: **32 bit** |
 
-#### Quỳnh Trang - _Khuya Nay Anh Đi Rồi_  &nbsp;&nbsp;(Album: _Khói Lam Chiều_)
+#### 02. Quỳnh Trang - _Khuya Nay Anh Đi Rồi_  &nbsp;&nbsp;(Album: _Khói Lam Chiều_)
 
 | Audio | Video |
 | ----- | ----- |
