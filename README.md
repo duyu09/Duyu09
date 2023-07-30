@@ -49,7 +49,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 <div>Number of Total Visits: &nbsp; <img src="https://visitor-badge.glitch.me/badge?page_id=Duyu09_GitHub_HomePage" /></div> 
 <div>Number of Total Followers: &nbsp; <img src="https://img.shields.io/github/followers/duyu09?label=Follow&style=social" /></div> 
 </div>
-<br><br><br>
+<br><br>
 <div style="display:inline-block;" align="center">
  <h1>Table of Some Useful Tools & Technology Stacks</h1>
 </div>
@@ -364,7 +364,9 @@ These are some useful tools and techstacks that I used before, It includes vario
 
 <br><br>
 
-<h2>Projects Presentation</h2>
+<div style="display:inline-block;" align="center">
+ <h1>Projects Presentation</h1>
+</div>
 
 | ID | NAME | INTRODUCTION | LINK OF REPOSITORIES |
 | ----- | ----- | ----- | ----- |
@@ -377,8 +379,10 @@ These are some useful tools and techstacks that I used before, It includes vario
 | 07 | AutoCommand | AutoCommand自动执行助手是一款可以让人们能方便而又快捷地执行电脑上特定的操作的自动化软件。 | https://github.com/duyu09/AutoCommand |
 | 08 | DuyuEncryptor | 一款使用VBA(Visual Basic 6.0)和C语言/C++开发的文件数据加密软件。集文件加密，文件销毁和其他安全措施于一体的加密软件。 | https://github.com/duyu09/DyEncryptor6.0_Plus |
 
-
-<h2>Required For Audio Processing Experiments</h2>
+<br>
+<div style="display:inline-block;" align="center">
+ <h1>Required For Audio Processing Experiments</h1>
+</div>
 
 - <i><b>The Dull Ice Flower</b>&nbsp;-&nbsp;Timi&nbsp;Zhuo</i>
 
@@ -414,7 +418,10 @@ The only thing that hasn't changed is the song
 Sing back and forth in my heart
 ```
 
-# RELEASE NEW MUSIC
+<br>
+<div style="display:inline-block;" align="center">
+ <h1>RELEASE NEW MUSIC</h1>
+</div>
 #### Little Tony - _I Really Wanna Stay At Your House_
 
 | Audio | Video |
@@ -441,5 +448,7 @@ Sing back and forth in my heart
 <br>
 <div align="center" style="text-align:center;">
  <h3>I am a student from Faculty of Computer Science & Technology, Qilu University of Technology.</h3>
- <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:64%;border-radius:20px;">
+ <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:40%;border-radius:20px;">
+ <img src="https://github.com/duyu09/Duyu09/assets/92843163/1797adfd-b6f5-4015-a5b7-2a8dfb0d4fa2" style="width:44%;border-radius:20px;">
 </div>
+
