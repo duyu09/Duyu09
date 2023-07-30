@@ -51,7 +51,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 </div>
 <br><br><br>
 <div style="display:inline-block;" align="center">
- <h2>Table of Some Useful Tools & Technology Stacks</h2>
+ <h1>Table of Some Useful Tools & Technology Stacks</h1>
 </div>
 <br>
 <table align="center">
@@ -360,9 +360,24 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
      </td>
 </tr>
 </table>
-<br>
+These are some useful tools and techstacks that I used before, It includes various front-end frameworks, various back-end programming languages, and artificial intelligence development frameworks. We should learn more about them.
 
-<br>
+<br><br>
+
+<h2>Projects Presentation</h2>
+
+| ID | NAME | INTRODUCTION | LINK OF REPOSITORIES |
+| ----- | ----- | ----- | ----- |
+| 01 | Intelligent Learning Platform Based on LLM & Regression Analysis Algorithms. | 我的青春不迷茫-基于LLM与回归分析的大学生智能生涯指导与学习大平台，针对解决大学生迷茫问题的多功能一站式网站。 | https://github.com/duyu09/Intelligent-Learning-Platform |
+| 02 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Science) | 齐鲁工业大学(山东省科学院) 自然语言处理与认知计算研究团队官方网站 （源代码仓库）。齐鲁工业大学NLP团队唯一官方网站项目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
+| 03 | Power Load Decomposition Algorithms | 基于人工智能与Keras框架的电力负荷分解算法。用于从住户耗电总功率时序数据中，推断出可能运行的常见电器及运行功率。 | https://github.com/duyu09/Power-Load-Decomposition-Algorithm |
+| 04 | DAPC | Duyu Audio Processor Core，简单处理音频，诸如：变换采样格式，增益衰减，声道混缩，混响回声效果，调整速度与音调，剪切，混合，添加静音，淡入淡出效果，FFT滤波，3D环绕声音效等。 | https://github.com/duyu09/Duyu-Audio-Processor-Core |
+| 05 | SIMS System Software | 基于Java Swing与MySQL的学生信息管理系统，可实现基本的CRUD操作。已有发行版可执行文件，运行前需自己部署MySQL数据库。 | https://github.com/duyu09/SIMS-system-Java |
+| 06 | Unified Assignment Submission Platform (UASP) | 软件工程(开发)21-1-2班 统一作业提交平台，便于收集作业和统计班内作业提交情况。UASP系统已在2023年上半学期使用。 | https://github.com/duyu09/Unified-Assignment-Submission-Platform |
+| 07 | AutoCommand | AutoCommand自动执行助手是一款可以让人们能方便而又快捷地执行电脑上特定的操作的自动化软件。 | https://github.com/duyu09/AutoCommand |
+| 08 | DuyuEncryptor | 一款使用VBA(Visual Basic 6.0)和C语言/C++开发的文件数据加密软件。集文件加密，文件销毁和其他安全措施于一体的加密软件。 | https://github.com/duyu09/DyEncryptor6.0_Plus |
+
+
 <h2>Required For Audio Processing Experiments</h2>
 
 - <i><b>The Dull Ice Flower</b>&nbsp;-&nbsp;Timi&nbsp;Zhuo</i>
@@ -399,7 +414,7 @@ The only thing that hasn't changed is the song
 Sing back and forth in my heart
 ```
 
-## RELEASE NEW MUSIC
+# RELEASE NEW MUSIC
 #### Little Tony - _I Really Wanna Stay At Your House_
 
 | Audio | Video |
