@@ -237,7 +237,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>PhotoShop
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/b7fbbff2-00e7-45e9-9ad2-2579574546a7" width="48" height="48" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/93231662-56b2-4ebf-9c5c-d5199ba3d540" width="48" height="48" />
       <br>PHP
      </td>
      <td align="center" width="96">
@@ -335,7 +335,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>Vite
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/98f66239-c8f3-4f23-8c4e-8ba542dbc3ff" width="48" height="48" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/06c19a48-85f4-46c0-bb73-69238a16a45e" width="48" height="48" />
       <br>VMware
      </td>
      <td align="center" width="96">
