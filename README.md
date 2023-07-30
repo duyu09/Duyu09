@@ -319,14 +319,44 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>TypeScript
      </td>
 </tr>
-    
-
-
-
-
- 
-
-
+<tr>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/5161460f-2317-492f-9829-3f17c683102b" width="48" height="48" />
+      <br>Ubuntu
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/880ecee9-2e83-4771-a206-72cc294ac8a6" width="48" height="48" />
+      <br>VBA
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/0582b71c-afef-43ca-9332-237992915c7d" width="48" height="48" />
+      <br>Vite
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/98f66239-c8f3-4f23-8c4e-8ba542dbc3ff" width="48" height="48" />
+      <br>VMware
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/b92d7241-93ee-49f2-a4b3-66299f47f822" width="48" height="48" />
+      <br>VS
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/ab4d451a-4cf6-454d-b434-4db314d88eef" width="48" height="48" />
+      <br>VSCode
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/a60bc48a-6da5-4556-b97a-ad93d8781772" width="48" height="48" />
+      <br>VueJS
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/723235b3-e657-4849-9556-99e885008d77" width="48" height="60" />
+      <br>Webpack
+     </td>
+     <td align="center" width="96">
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/1bb8c369-dfa3-4def-8f8a-363ec2c12821" width="48" height="48" />
+      <br>Windows
+     </td>
+</tr>
 </table>
 
 <br>
