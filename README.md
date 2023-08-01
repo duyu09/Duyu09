@@ -458,7 +458,7 @@ Sing back and forth in my heart
 | Accompaniment | Vocal |
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/541f1e7b-97af-438a-ba0d-2a27ce207cb1"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/6506162b-43ac-45ef-a72f-d4059e9b9a5b"> |
-| - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **332 kbit/s** | - Encode Format: **AAC**<br>- Sample Rate: **64000 Hz**<br>- Bit Rate: **305 kbit/s**<br>- Power By: **Spleeter**, **Au** and **RX 10**|
+| - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **332 kbit/s** | - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **279 kbit/s**<br>- Power By: **Spleeter**, **Au** and **RX 10**|
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
