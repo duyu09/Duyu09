@@ -51,7 +51,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 </div>
 <br><br>
 <div style="display:inline-block;" align="center">
-  <h1>Table of Some Useful Tools & Technology Stacks</h1>
+  <h1>01. Table of Some Useful Tools & Technology Stacks</h1>
 </div>
 <br>
 <table align="center">
@@ -365,7 +365,7 @@ These are some useful tools and techstacks that I used before, It includes vario
 <br><br>
 
 <div style="display:inline-block;" align="center">
- <h1>Projects Presentation</h1>
+ <h1>02. Projects Presentation</h1>
 </div>
 
 | ID | NAME | INTRODUCTION | LINK OF REPOSITORIES |
@@ -381,7 +381,7 @@ These are some useful tools and techstacks that I used before, It includes vario
 
 <br>
 <div style="display:inline-block;" align="center">
- <h1>Required For Audio Processing Experiments</h1>
+ <h1>03. Required For Audio Processing Experiments</h1>
 </div>
 
 | Experiments | _The Dull Ice Flower_ (Chorus) |
@@ -418,7 +418,7 @@ Sing back and forth in my heart
 
 <br>
 <div style="display:inline-block;" align="center">
- <h1>Release New Music</h1>
+ <h1>04. Release New Music</h1>
 </div>
 
 ### 01. Little Tony - _I Really Wanna Stay At Your House_
@@ -450,10 +450,15 @@ Sing back and forth in my heart
 | ----- | ----- |
 | <img src="https://github.com/duyu09/Duyu09/assets/92843163/78e5a65b-142e-44a7-8c7e-614ac121e8fa" style="width:120px;"> | - __NAME__：Đón Xuân (Welcoming Spring) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Release Year__: 2021 |
 
-| Video | Audio |
+| Audio | Video |
 | ----- | ----- |
-| <video src="https://github.com/duyu09/Duyu09/assets/92843163/f7fbec1c-e886-40bc-b0dc-87d415da219e"> | Processing... |
-| - Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Rate: **24 kbit/s** | - |
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/e1f264f1-0886-4dab-8e1c-7bf6ed34964d"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/f7fbec1c-e886-40bc-b0dc-87d415da219e"> |
+| - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **337 kbit/s** | - Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Rate: **24 kbit/s** |
+
+| Accompaniment | Vocal |
+| ----- | ----- |
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/541f1e7b-97af-438a-ba0d-2a27ce207cb1"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/6506162b-43ac-45ef-a72f-d4059e9b9a5b"> |
+| - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **332 kbit/s** | - Encode Format: **AAC**<br>- Sample Rate: **64000 Hz**<br>- Bit Rate: **305 kbit/s**<br>- Power By: **Spleeter**, **Au** and **RX 10**|
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
