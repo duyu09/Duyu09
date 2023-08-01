@@ -1,5 +1,5 @@
 <div style="display:inline-block;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=22&weight=500&lines=I+am+@Duyu09!;A+Computer+Programming+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=22&weight=500&lines=I+am+@Duyu09!;A+Computer+Programming+Enthusiast" alt="Hi, I'm Duyu09!" />
   <br>
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duyu09&langs_count=10&layout=compact&show_icons=true&count_private=false&hide=prs&text_color=fff&bg_color=000">
@@ -384,11 +384,9 @@ These are some useful tools and techstacks that I used before, It includes vario
  <h1>Required For Audio Processing Experiments</h1>
 </div>
 
-- <i><b>The Dull Ice Flower</b>&nbsp;-&nbsp;Timi&nbsp;Zhuo</i>
-
-- <i>Released in 1998 in <b>Film and Television Golden Grand Hits</b></i>
-
-- You can download FLAC file in Music repository.
+| Experiments | _The Dull Ice Flower_ (Chorus) |
+| ----- | ----- |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/a3ce3315-0cea-4812-bde5-f89952e76268" style="width:120px;"> | - __NAME__：The Dull Ice Flower <br> - __Author__: Timi Zhuo (Zhuo Yiting) <br> - __Album__: Film and Television Golden Grand Hits 01 <br> - __Release Year__: 1998 |
 
 | 01.Original | 02.High | 03.Low |
 |-----|-----|-----|
@@ -423,24 +421,39 @@ Sing back and forth in my heart
  <h1>Release New Music</h1>
 </div>
 
-#### 01. Little Tony - _I Really Wanna Stay At Your House_
+### 01. Little Tony - _I Really Wanna Stay At Your House_
 
 | Audio | Video |
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/cdd2763c-bf70-4f39-b153-79ca7d27b580"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/62eeed8f-9e96-4ac7-8b67-891adc062d4e"> |
 | **_I Really Wanna Stay At Your House_**<br>**Author: _Little Tony_**<br><br>- Encode Format: **AAC**<br>- Sample Rate: **44100 Hz**<br>- Bit Rate: **132 kbit/s** | **_I Really Wanna Stay At Your House_**<br>**Author: _Little Tony_**<br><br>- Audio Encode Format: **Opus**<br>- Sample Rate: **24000 Hz**<br>- Bit Depth: **32 bit** |
 
-#### 02. Quỳnh Trang - _Khuya Nay Anh Đi Rồi_  &nbsp;&nbsp;(Album: _Khói Lam Chiều_)
+### 02. _Khuya Nay Anh Đi Rồi_
+
+| 02 | _Khuya Nay Anh Đi Rồi_ |
+| ----- | ----- |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/f2a7a8b2-4e00-48ce-94ee-763a478a798e" style="width:120px;"> | - __NAME__：Khuya Nay Anh Đi Rồi (You Leave Tonight) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Album__: Khói Lam Chiều <br> - __Release Year__: 2020 |
 
 | Audio | Video |
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/79c7f7c6-328e-433a-94b4-ecefd1b11f0c"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/b1de4c48-5aae-4a0a-a408-4de161e62b62"> |
-| **_Khuya Nay Anh Đi Rồi_**<br>**Author: _Quỳnh Trang_**<br><br>- Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **328 kbit/s** | **_Khuya Nay Anh Đi Rồi_**<br>**Author: _Quỳnh Trang_**<br><br>- Audio Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Depth: **16 bit** |
+| - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **328 kbit/s** | - Audio Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Depth: **16 bit** |
 
 | Accompaniment | Vocal |
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/5b46405a-1480-4a1b-87aa-24af6cc3dbe4"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/e1c160ba-38ce-45c2-bb93-4fbb82898ed7"> |
 | - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **328 kbit/s** | - Encode Format: **AAC**<br>- Sample Rate: **64000 Hz**<br>- Bit Rate: **305 kbit/s**<br>- Power By: **Spleeter** and **RX 10**|
+
+### 03.  _Đón Xuân_
+
+| 03 | _Đón Xuân_ |
+| ----- | ----- |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/78e5a65b-142e-44a7-8c7e-614ac121e8fa" style="width:120px;"> | - __NAME__：Đón Xuân (Welcoming Spring) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Release Year__: 2021 |
+
+| Video | Audio |
+| ----- | ----- |
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/f7fbec1c-e886-40bc-b0dc-87d415da219e"> | Processing... |
+| - Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Rate: **24 kbit/s** | - |
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
