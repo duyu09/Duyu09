@@ -448,7 +448,7 @@ Sing back and forth in my heart
 
 | 03 | _Đón Xuân_ |
 | ----- | ----- |
-| <img src="https://github.com/duyu09/Duyu09/assets/92843163/78e5a65b-142e-44a7-8c7e-614ac121e8fa" style="width:120px;"> | - __NAME__：Đón Xuân (Welcoming Spring) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Release Year__: 2021 |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/dafe8582-f33d-4ad5-aa2b-6a458ae46a98" style="width:226px;"> | - __NAME__：Đón Xuân (Welcoming Spring) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Release Year__: 2021 |
 
 | Audio | Video |
 | ----- | ----- |
