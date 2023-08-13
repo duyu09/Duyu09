@@ -432,7 +432,7 @@ Sing back and forth in my heart
 
 | 02 | _Khuya Nay Anh Đi Rồi_ |
 | ----- | ----- |
-| <img src="https://github.com/duyu09/Duyu09/assets/92843163/f2a7a8b2-4e00-48ce-94ee-763a478a798e" style="width:120px;"> | - __NAME__：Khuya Nay Anh Đi Rồi (You Leave Tonight) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Album__: Khói Lam Chiều <br> - __Release Year__: 2020 |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/c6a7837e-0351-415d-ac8a-88080c240c1c" style="width:226px;"> | - __NAME__：Khuya Nay Anh Đi Rồi (You Leave Tonight) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Album__: Khói Lam Chiều <br> - __Release Year__: 2020 |
 
 | Audio | Video |
 | ----- | ----- |
