@@ -387,9 +387,9 @@ These are some useful tools and techstacks that I used before, It includes vario
  <h1>03. Required For Audio Processing Experiments</h1>
 </div>
 
-| Experiments | _The Dull Ice Flower_ (Chorus) |
+| Experiments | _The Dull Ice Flower_ _(Lu Bing Hua)_ &nbsp; (Chorus) |
 | ----- | ----- |
-| <img src="https://github.com/duyu09/Duyu09/assets/92843163/a3ce3315-0cea-4812-bde5-f89952e76268" style="width:120px;"> | - __NAME__：The Dull Ice Flower <br> - __Author__: Timi Zhuo (Zhuo Yiting) <br> - __Album__: Film and Television Golden Grand Hits 01 <br> - __Release Year__: 1998 |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/a3ce3315-0cea-4812-bde5-f89952e76268" style="width:120px;"> | - __NAME__：The Dull Ice Flower (Lu Bing Hua) <br> - __Author__: Timi Zhuo (Zhuo Yiting) <br> - __Album__: Film and Television Golden Grand Hits 01 <br> - __Release Year__: 1998 |
 
 | 01.Original | 02.High | 03.Low |
 |-----|-----|-----|
@@ -469,7 +469,7 @@ Sing back and forth in my heart
 
 <br>
 <div align="center" style="text-align:center;">
- <h3>I am a student from Faculty of Computer Science & Technology, Qilu University of Technology.</h3>
+ <h3>I am a student from Faculty of Computer Science & Technology, <br> Qilu University of Technology (ShanDong Academy of Science).</h3>
  <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:40%;border-radius:20px;">
  <img src="https://github.com/duyu09/Duyu09/assets/92843163/1797adfd-b6f5-4015-a5b7-2a8dfb0d4fa2" style="width:44%;border-radius:20px;">
 </div>
