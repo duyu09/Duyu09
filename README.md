@@ -1,5 +1,5 @@
 <div style="display:inline-block;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=22&weight=500&lines=I+am+@Duyu09!;A+Computer+Programming+Enthusiast" alt="Hi, I'm Duyu09!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=22&weight=500&lines=I+am+@Duyu09!;A+Computer+Programming+Enthusiast" alt="Hi, I'm Duyu09!" />
   <br>
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duyu09&langs_count=10&layout=compact&show_icons=true&count_private=false&hide=prs&text_color=fff&bg_color=000">
@@ -354,7 +354,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
       <br>VueJS
      </td>
      <td align="center" width="96">
-      <img src="https://github.com/duyu09/Duyu09/assets/92843163/04206565-0fc3-4b8d-b7e4-8570d87eee22" width="48" height="60" />
+      <img src="https://github.com/duyu09/Duyu09/assets/92843163/9a162bf4-f7ef-4f03-a954-9d7335ad9440" width="48" height="60" />
       <br>Webpack
      </td>
      <td align="center" width="96">
@@ -363,6 +363,7 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
      </td>
 </tr>
 </table>
+
 These are some useful tools and techstacks that I used before, It includes various front-end frameworks, various back-end programming languages, and artificial intelligence development frameworks. We should learn more about them.
 
 <br><br>
