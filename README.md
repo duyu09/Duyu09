@@ -451,7 +451,7 @@ Sing back and forth in my heart
 | Accompaniment | Vocal |
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/5b46405a-1480-4a1b-87aa-24af6cc3dbe4"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/e1c160ba-38ce-45c2-bb93-4fbb82898ed7"> |
-| - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **328 kbit/s** | - Encode Format: **AAC**<br>- Sample Rate: **64000 Hz**<br>- Bit Rate: **305 kbit/s**<br>- Power By: **Spleeter** and **RX 10**|
+| - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **328 kbit/s** | - Encode Format: **AAC**<br>- Sample Rate: **64000 Hz**<br>- Bit Rate: **305 kbit/s**<br>- Power By: **Spleeter** and **RX 10** |
 
 ### 03.  _Đón Xuân_
 
@@ -467,7 +467,23 @@ Sing back and forth in my heart
 | Accompaniment | Vocal |
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/541f1e7b-97af-438a-ba0d-2a27ce207cb1"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/6506162b-43ac-45ef-a72f-d4059e9b9a5b"> |
-| - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **332 kbit/s** | - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **279 kbit/s**<br>- Power By: **Spleeter**, **Au** and **RX 10**|
+| - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **332 kbit/s** | - Encode Format: **AAC**<br>- Sample Rate: **48000 Hz**<br>- Bit Rate: **279 kbit/s**<br>- Power By: **Spleeter**, **Au** and **RX 10** |
+
+### 04.  _Qua Cơn Mê_
+
+| 04 | _Qua Cơn Mê_ |
+| ----- | ----- |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/f80676db-43d8-40c0-b968-e3ba1be693c3" style="width:226px;"> | - __NAME__: Qua Cơn Mê (Through the Mist) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Release Year__: 2021 |
+
+| Audio | Video |
+| ----- | ----- |
+| Processing... | <video src="https://github.com/duyu09/Duyu09/assets/92843163/88e86391-d7ce-477c-9caf-7ec55adbe40d"> |
+| - Processing... | - Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Rate: **24 kbit/s** |
+
+| Accompaniment | Vocal |
+| ----- | ----- |
+| Processing... | Processing... |
+| - Processing... | - Processing... |
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
@@ -476,7 +492,11 @@ Sing back and forth in my heart
 <br>
 <div align="center" style="text-align:center;">
  <h3>I am a student from Faculty of Computer Science & Technology, <br> Qilu University of Technology (ShanDong Academy of Science).</h3>
- <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:40%;border-radius:20px;">
- <img src="https://github.com/duyu09/Duyu09/assets/92843163/1797adfd-b6f5-4015-a5b7-2a8dfb0d4fa2" style="width:44%;border-radius:20px;">
+ <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:40%;">
+ <!--- <img src="https://github.com/duyu09/Duyu09/assets/92843163/1797adfd-b6f5-4015-a5b7-2a8dfb0d4fa2" style="width:40%;"> --->
 </div>
+
+<!---
+Copyright (c) 2021~2023 DuYu (@Duyu09, No.202103180009), Faculty of Computer Science and Technology, Qilu University of Technology (ShanDong Academy of Science).
+---->
 
