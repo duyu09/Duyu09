@@ -1,9 +1,12 @@
 <div style="display:inline-block;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=28&weight=500&lines=I+am+@Duyu09!;A+Programming+Enthusiast!" alt="Hi, I'm Duyu09!" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=28&weight=500&lines=I+am+@Duyu09!;A+Programming+Enthusiast!" alt="Hi, I'm Duyu09!" /> -->
+  <img src="https://github.com/duyu09/Duyu09/assets/92843163/98f64017-662e-467c-85f8-173ea4bf7d4b" />
   <br>
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+  <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" /> -->
+  <img width="150" src="https://github.com/duyu09/Duyu09/assets/92843163/05a9c583-085d-4cb4-a6bf-1ae60e19b5a0" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duyu09&langs_count=10&layout=compact&show_icons=true&count_private=false&hide=prs&text_color=fff&bg_color=000">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+  <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" /> -->
+  <img width="150" src="https://github.com/duyu09/Duyu09/assets/92843163/5a9acac8-59f0-4e8c-b9c0-91a90f67485a" />
 </div>
 <br>
 <div style="display:inline-block;" align="center">
@@ -41,7 +44,8 @@
  
 ![info](https://github-readme-streak-stats.herokuapp.com/?user=duyu09&theme=dark&hide_border=true)
 
-<img src="https://github.com/duyu09/Duyu09/assets/92843163/e5dab1c1-e246-4b87-9507-5f90dd3b10e0" style="width:60px;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&weight=500&lines=Rigorous!+Critical!+Striving!" alt="Rigorous! Critical! Striving!" />
+<img src="https://github.com/duyu09/Duyu09/assets/92843163/e5dab1c1-e246-4b87-9507-5f90dd3b10e0" style="width:60px;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/duyu09/Duyu09/assets/92843163/69b0539d-c1b3-45e7-b6d3-bcee979aa25a" alt="Rigorous! Critical! Striving!" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&weight=500&lines=Rigorous!+Critical!+Striving!" alt="Rigorous! Critical! Striving!" /> -->
 
 <br>
 
@@ -491,15 +495,15 @@ The birth of a stage name happened, and since then, she has been known as Quynh 
 
 | 04 | _Qua Cơn Mê_ |
 | ----- | ----- |
-| <img src="https://github.com/duyu09/Duyu09/assets/92843163/f80676db-43d8-40c0-b968-e3ba1be693c3" style="width:226px;"> | - __NAME__: Qua Cơn Mê (Through the Mist) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Release Year__: 2021 |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/f80676db-43d8-40c0-b968-e3ba1be693c3" style="width:226px;"> | - __NAME__: Qua Cơn Mê (Through the Mist) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Release Year__: 2020 |
 
 | Audio | Video |
 | ----- | ----- |
-| Processing... | <video src="https://github.com/duyu09/Duyu09/assets/92843163/88e86391-d7ce-477c-9caf-7ec55adbe40d"> |
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/2cd27664-d147-47ae-9924-931a31fbe547"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/88e86391-d7ce-477c-9caf-7ec55adbe40d"> |
 
 | Accompaniment | Vocal |
 | ----- | ----- |
-| Processing... | Processing... |
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/333a96cf-460d-41a3-aec5-6081a7d2b137"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/4ca7de46-bf70-4bf1-94d7-c2c7da35d485"> |
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
@@ -508,11 +512,12 @@ The birth of a stage name happened, and since then, she has been known as Quynh 
 <br>
 <div align="center" style="text-align:center;">
  <h3>I am a student from Faculty of Computer Science & Technology, <br> Qilu University of Technology (ShanDong Academy of Science).</h3>
- <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:40%;">
+ <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:55%;">
  <!--- <img src="https://github.com/duyu09/Duyu09/assets/92843163/1797adfd-b6f5-4015-a5b7-2a8dfb0d4fa2" style="width:40%;"> --->
 </div>
 
 <!---
+GitHub HomePage Profile of DuYu (@Duyu09).
 Copyright (c) 2021~2023 DuYu (@Duyu09, No.202103180009), Faculty of Computer Science and Technology, Qilu University of Technology (ShanDong Academy of Science).
 ---->
 
