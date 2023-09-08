@@ -1,5 +1,5 @@
 <div style="display:inline-block;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=22&weight=500&lines=I+am+@Duyu09!;A+Computer+Programming+Enthusiast" alt="Hi, I'm Duyu09!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=28&weight=500&lines=I+am+@Duyu09!;A+Programming+Enthusiast!" alt="Hi, I'm Duyu09!" />
   <br>
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duyu09&langs_count=10&layout=compact&show_icons=true&count_private=false&hide=prs&text_color=fff&bg_color=000">
@@ -41,7 +41,10 @@
  
 ![info](https://github-readme-streak-stats.herokuapp.com/?user=duyu09&theme=dark&hide_border=true)
 
-<br><br>
+<img src="https://github.com/duyu09/Duyu09/assets/92843163/e5dab1c1-e246-4b87-9507-5f90dd3b10e0" style="width:60px;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&weight=500&lines=Rigorous!+Critical!+Striving!" alt="Rigorous! Critical! Striving!" />
+
+<br>
+
 **My Home Page:** &nbsp; https://sites.google.com/view/duyu09 <br> 
 **My Baidu Blog:** &nbsp; https://author.baidu.com/home/1756639575860079 <br>
 **My CSDN Blog:** &nbsp; https://blog.csdn.net/QLU_Duyu <br>
@@ -493,12 +496,10 @@ The birth of a stage name happened, and since then, she has been known as Quynh 
 | Audio | Video |
 | ----- | ----- |
 | Processing... | <video src="https://github.com/duyu09/Duyu09/assets/92843163/88e86391-d7ce-477c-9caf-7ec55adbe40d"> |
-| - Processing... | - Encode Format: **AAC**<br>- Sample Rate: **22050 Hz**<br>- Bit Rate: **24 kbit/s** |
 
 | Accompaniment | Vocal |
 | ----- | ----- |
 | Processing... | Processing... |
-| - Processing... | - Processing... |
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
