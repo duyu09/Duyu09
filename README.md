@@ -373,6 +373,43 @@ Welcome to visit my blogs, We can talk about information technology there! <br><
 
 These are some useful tools and techstacks that I used before, It includes various front-end frameworks, various back-end programming languages, and artificial intelligence development frameworks. We should learn more about them.
 
+<div style="display:inline-block;" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=duyu09&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
+<br>
+
+```mermaid
+mindmap
+  root((Duyu09))
+      root((C/C++))
+        
+      root((Java))
+        Java EE
+        Swing
+        Spring Boot
+        MyBatis
+        MQ
+      root((Python))
+        Numpy
+        Scipy
+        Pandas
+        Matplotlib
+        TensorFlow
+      root((AI))
+        Machine Learning
+        Deep Learning
+        NLP
+        CV and VIP
+      root((Media))
+        
+      root((Basic))
+        Computer Networking
+        Operating System
+        Data Structure and Algorithms
+        Principles of Computer System Composition
+        Database
+```
+
 <br><br>
 
 <div style="display:inline-block;" align="center">
