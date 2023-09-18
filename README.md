@@ -549,8 +549,8 @@ The birth of a stage name happened, and since then, she has been known as Quynh 
 <br>
 <div align="center" style="text-align:center;">
  <h3>I am a student from Faculty of Computer Science & Technology, <br> Qilu University of Technology (ShanDong Academy of Science).</h3>
- <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:55%;">
- <!--- <img src="https://github.com/duyu09/Duyu09/assets/92843163/1797adfd-b6f5-4015-a5b7-2a8dfb0d4fa2" style="width:40%;"> --->
+ <img src="https://user-images.githubusercontent.com/92843163/229986960-05c91bf5-e08e-4bd3-89a4-deee3d2dbc6d.svg" style="width:40%;">&nbsp;&nbsp;
+ <img src="https://github.com/duyu09/Duyu09/assets/92843163/16494c85-3808-447c-a73e-40d509018fe0" style="width:40%;">
 </div>
 
 <!---
