@@ -480,20 +480,15 @@ Sing back and forth in my heart
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/cdd2763c-bf70-4f39-b153-79ca7d27b580"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/06c8d18a-c00c-4a9b-9549-29e7de54b23a"> |
 | **_I Really Wanna Stay At Your House_**<br><br>- Encode Format: **AAC**<br>- Sample Rate: **44100 Hz**<br>- Bit Rate: **132 kbit/s** | **_I Really Wanna Stay At Your House_**<br><br>- Audio Encode Format: **Opus**<br>- Sample Rate: **24000 Hz**<br>- Bit Depth: **32 bit** |
 
+| <center>The Picture of Quỳnh Trang</center> | INTRODUCTION |
+| ----- | ----- |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/93f3589d-7dd5-44ae-9a4a-ff64d7c67c37" style="width: 50vw;"> | - Quỳnh Trang, sinh năm 1997. <br>- Quê hương của cô là ở thành phố tuy hòa, tỉnh phú an. <br>- Ít được biết đến là một cô gái tên là Thuy Trang, và khi cô chính thức bước lên con đường nghệ thuật, bởi vì cái tên phù hợp với một ca sĩ nổi tiếng ở quê hương, cô và mẹ quyết định tìm một cái tên mới. <br>- Sự ra đời tên sân khấu và từ đó, Qu ỳ nh Trang rồi. |
+
 ```
-Quỳnh Trang, sinh năm 1997.
-Quê hương của cô là ở thành phố tuy hòa, tỉnh phú an.
-Ít được biết đến là một cô gái tên là Thuy Trang, và khi cô chính thức bước lên con đường nghệ thuật,
-bởi vì cái tên phù hợp với một ca sĩ nổi tiếng ở quê hương, cô và mẹ quyết định tìm một cái tên mới.
-Sự ra đời tên sân khấu và từ đó, Qu ỳ nh Trang rồi.
-
-====================================================================================================
-
 Quynh Trang, born in 1997, originates from Tuy Hoa city, Phu Yen province.
 Little-known as a girl named Thuy Trang, when she officially embarked on her artistic path,
 because the name suited a famous singer in her hometown, she and her mother decided to find a new name.
 The birth of a stage name happened, and since then, she has been known as Quynh Trang.
-
 ```
 
 ### 02. _Khuya Nay Anh Đi Rồi_
