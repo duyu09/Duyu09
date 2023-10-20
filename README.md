@@ -47,12 +47,17 @@
 <img src="https://github.com/duyu09/Duyu09/assets/92843163/e5dab1c1-e246-4b87-9507-5f90dd3b10e0" style="width:60px;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/duyu09/Duyu09/assets/92843163/69b0539d-c1b3-45e7-b6d3-bcee979aa25a" alt="Rigorous! Critical! Striving!" />
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&weight=500&lines=Rigorous!+Critical!+Striving!" alt="Rigorous! Critical! Striving!" /> -->
 
+
+ <b>Welcome to visit my blogs, We can talk about information technology there! </b>
+
+| ITEM | WEB SITE | EMAIL ID | ADDRESS |
+| ----- | ----- | ----- | ----- |
+| **My Home Page:** | https://www.duyu09.site | **01** | qluduyu09@163.com |
+| **My Gitee:** | https://gitee.com/duyu09 | **02** | qluduyu09@gmail.com |
+| **My CSDN Blog:** | https://blog.csdn.net/QLU_Duyu | **03** | 3583496945@qq.com |
+
 <br>
 
-**My Home Page:** &nbsp; https://www.duyu09.site/home-page <br> 
-**My Baidu Blog:** &nbsp; https://author.baidu.com/home/1756639575860079 <br>
-**My CSDN Blog:** &nbsp; https://blog.csdn.net/QLU_Duyu <br>
-Welcome to visit my blogs, We can talk about information technology there! <br><br>
 <div><b>Number of Total Visits (All of Duyu09's GitHub Projects): </b><br><img src="https://profile-counter.glitch.me/duyu09/count.svg" /></div> 
 <br>
 <!-- <div>Number of Total Followers: &nbsp; <img src="https://img.shields.io/github/followers/duyu09?label=Follow&style=social" /></div>  --> 
