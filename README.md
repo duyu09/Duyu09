@@ -400,6 +400,7 @@ mindmap
         Pandas
         Matplotlib
         TensorFlow
+        PyTorch
       root((AI))
         Machine Learning
         Deep Learning
@@ -543,9 +544,16 @@ The birth of a stage name happened, and since then, she has been known as Quynh 
 | ----- | ----- |
 | <video src="https://github.com/duyu09/Duyu09/assets/92843163/333a96cf-460d-41a3-aec5-6081a7d2b137"> | <video src="https://github.com/duyu09/Duyu09/assets/92843163/4ca7de46-bf70-4bf1-94d7-c2c7da35d485"> |
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
-</div>
+
+### 05.  _Chuyện Người Con Gái Hái Sim_
+
+| 05 | _Chuyện Người Con Gái Hái Sim_ |
+| ----- | ----- |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/c8353640-a569-4445-95b6-2d4b6416b0b1" style="width:226px;"> | - __NAME__: Chuyện Người Con Gái Hái Sim (The Story of a Girl Who Picked Myrtle) <br> - __Author__: Quỳnh Trang (Quynh Trang) <br> - __Release Year__: 2021 |
+
+| Audio | Video |
+| ----- | ----- |
+| <video src="https://github.com/duyu09/Duyu09/assets/92843163/8c418d6f-b4ef-4851-a546-f0254292906e"> | None |
 
 <br>
 <div align="center" style="text-align:center;">
