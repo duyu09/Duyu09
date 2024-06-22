@@ -54,7 +54,7 @@
 | ----- | ----- | ----- | ----- |
 | **My Home Page:** | https://www.duyu09.site | **01** | qluduyu09@163.com |
 | **My Gitee:** | https://gitee.com/duyu09 | **02** | qluduyu09@gmail.com |
-| **My CSDN Blog:** | https://blog.csdn.net/QLU_Duyu | **03** | 3583496945@qq.com |
+| **My CSDN Blog:** | https://blog.csdn.net/QLU_Duyu | **03** | 202103180009@stu.qlu.edu.cn |
 
 <br>
 
@@ -424,9 +424,9 @@ mindmap
 
 | ID | NAME (ABBR. IN PARENTHESES) | INTRODUCTION | LINK OF REPOSITORIES |
 | ----- | ----- | ----- | ----- |
-| 01 | Intelligent Learning Platform Based on LLM & Regression Analysis Algorithms (ILP) | 我的青春不迷茫-基于LLM与回归分析的大学生智能生涯指导与学习大平台，针对解决大学生迷茫问题的多功能一站式网站。 | https://github.com/duyu09/Intelligent-Learning-Platform |
-| 02 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Science) | 齐鲁工业大学(山东省科学院) 自然语言处理与认知计算研究团队官方网站 （源代码仓库）。齐鲁工业大学NLP团队唯一官方网站项目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
-| 03 | Power Load Decomposition and Classification Algorithms and System | 基于深度学习的电力负荷实时分类分解方法与系统。用于从住户耗电总功率时序数据中，推断出可能运行的常见电器及运行功率。 | _Temporarily closed source due to issues involving corporate secrets_ |
+| 01 | Powerload Classification and Prediction System | 基于深度学习算法的电力负载分类与预测系统。用于根据住户耗电总功率时序数据，推断出可能运行的常见电器种类并预测未来时间的电力消耗功率。 | https://github.com/duyu09/Powerload-Classification-and-Prediction-System |
+| 02 | Intelligent Learning Platform Based on LLM & Regression Analysis Algorithms (ILP) | 我的青春不迷茫-基于LLM与回归分析的大学生智能生涯指导与学习大平台，针对解决大学生迷茫问题的多功能一站式网站。 | https://github.com/duyu09/Intelligent-Learning-Platform |
+| 03 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Science) | 齐鲁工业大学(山东省科学院) 自然语言处理与认知计算研究团队官方网站 （源代码仓库）。齐鲁工业大学NLP团队唯一官方网站项目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
 | 04 | Duyu Audio Processor Core (DAPC) | DuYu音频处理器核心。简单处理音频，诸如：变换采样格式，增益衰减，声道混缩，混响回声效果，调整速度与音调，剪切，混合，添加静音，淡入淡出效果，FFT滤波，3D环绕声音效等。 | https://github.com/duyu09/Duyu-Audio-Processor-Core |
 | 05 | SIMS System Software | 基于Java Swing与MySQL的学生信息管理系统，可实现基本的CRUD操作。已有发行版可执行文件，运行前需自己部署MySQL数据库。 | https://github.com/duyu09/SIMS-system-Java |
 | 06 | Unified Assignment Submission Platform (UASP) | 软件工程(开发)21-1-2班 统一作业提交平台，便于收集作业和统计班内作业提交情况。UASP系统已在2023年上半学期使用。 | https://github.com/duyu09/Unified-Assignment-Submission-Platform |
