@@ -56,19 +56,32 @@
 | **My Gitee:** | https://gitee.com/duyu09 | **02** | qluduyu09@gmail.com |
 | **My CSDN Blog:** | https://blog.csdn.net/QLU_Duyu | **03** | 202103180009@stu.qlu.edu.cn |
 
-<br>
-
-<div><b>Number of Total Visits (All of Duyu09's GitHub Projects): </b><br><img src="https://profile-counter.glitch.me/duyu09/count.svg" /></div> 
-<br>
-<!-- <div>Number of Total Followers: &nbsp; <img src="https://img.shields.io/github/followers/duyu09?label=Follow&style=social" /></div>  --> 
-<div><b>Number of Total Visits (Duyu09's GitHub HomePage): </b><br><img src="https://profile-counter.glitch.me/duyu09-HomePage/count.svg" /></div> 
-
 </div>
+
+<div style="display:inline-block;" align="center">
+ <h1>01. Projects Presentation</h1>
+</div>
+
+| ID | NAME (ABBR. IN PARENTHESES) | INTRODUCTION | LINK OF REPOSITORIES |
+| ----- | ----- | ----- | ----- |
+| 01 | Powerload Classification and Prediction System | 基于深度学习算法的电力负载分类与预测系统。用于根据住户耗电总功率时序数据，推断出可能运行的常见电器种类并预测未来时间的电力消耗功率。 | https://github.com/duyu09/Powerload-Classification-and-Prediction-System |
+| 02 | Intelligent Learning Platform Based on LLM & Regression Analysis Algorithms (ILP) | 我的青春不迷茫-基于LLM与回归分析的大学生智能生涯指导与学习大平台，针对解决大学生迷茫问题的多功能一站式网站。 | https://github.com/duyu09/Intelligent-Learning-Platform |
+| 03 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Science) | 齐鲁工业大学(山东省科学院) 自然语言处理与认知计算研究团队官方网站 （源代码仓库）。齐鲁工业大学NLP团队唯一官方网站项目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
+| 04 | Duyu Audio Processor Core (DAPC) | DuYu音频处理器核心。简单处理音频，诸如：变换采样格式，增益衰减，声道混缩，混响回声效果，调整速度与音调，剪切，混合，添加静音，淡入淡出效果，FFT滤波，3D环绕声音效等。 | https://github.com/duyu09/Duyu-Audio-Processor-Core |
+| 05 | SIMS System Software | 基于Java Swing与MySQL的学生信息管理系统，可实现基本的CRUD操作。已有发行版可执行文件，运行前需自己部署MySQL数据库。 | https://github.com/duyu09/SIMS-system-Java |
+| 06 | Unified Assignment Submission Platform (UASP) | 软件工程(开发)21-1-2班 统一作业提交平台，便于收集作业和统计班内作业提交情况。UASP系统已在2023年上半学期使用。 | https://github.com/duyu09/Unified-Assignment-Submission-Platform |
+| 07 | AutoCommand (AC) | AutoCommand自动执行助手是一款可以让人们能方便而又快捷地执行电脑上特定的操作的自动化软件。是“无代码编程”的雏形。 | https://github.com/duyu09/AutoCommand |
+| 08 | DuyuEncryptor (DyEnc) | 一款使用VBA(Visual Basic 6.0)和C++语言开发的文件数据加密软件。集文件加密，文件销毁和其他安全措施于一体的集成数据加密软件系统。 | https://github.com/duyu09/DyEncryptor6.0_Plus |
+| 09 | Participate in Development of ChatGLM Optimized For Law Related Content as a researcher at Quan Cheng Laboratory (QCL) of Tsinghua University. | 担任清华大学泉城实验室网络空间安全治理项目组流动科研人员，针对法律内容方面的ChatGLM大模型优化与数据处理。 | _Temporarily closed source due to issues involving laboratory secrets_ |
+
+
 <br><br>
 <div style="display:inline-block;" align="center">
-  <h1>01. Table of Some Useful Tools & Technology Stacks</h1>
+  <h1>02. Table of Some Useful Tools & Technology Stacks</h1>
 </div>
-<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;These are some useful tools and techstacks that I used before, It includes various front-end frameworks, various back-end programming languages, and artificial intelligence development frameworks. We should learn more about them.
+
 <table align="center">
   <tr>
      <td align="center" width="96">
@@ -376,8 +389,6 @@
 </tr>
 </table>
 
-These are some useful tools and techstacks that I used before, It includes various front-end frameworks, various back-end programming languages, and artificial intelligence development frameworks. We should learn more about them.
-
 <div style="display:inline-block;" align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=duyu09&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
@@ -416,30 +427,21 @@ mindmap
         Database
 ```
 
-<br><br>
-
-<div style="display:inline-block;" align="center">
- <h1>02. Projects Presentation</h1>
-</div>
-
-| ID | NAME (ABBR. IN PARENTHESES) | INTRODUCTION | LINK OF REPOSITORIES |
-| ----- | ----- | ----- | ----- |
-| 01 | Powerload Classification and Prediction System | 基于深度学习算法的电力负载分类与预测系统。用于根据住户耗电总功率时序数据，推断出可能运行的常见电器种类并预测未来时间的电力消耗功率。 | https://github.com/duyu09/Powerload-Classification-and-Prediction-System |
-| 02 | Intelligent Learning Platform Based on LLM & Regression Analysis Algorithms (ILP) | 我的青春不迷茫-基于LLM与回归分析的大学生智能生涯指导与学习大平台，针对解决大学生迷茫问题的多功能一站式网站。 | https://github.com/duyu09/Intelligent-Learning-Platform |
-| 03 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Science) | 齐鲁工业大学(山东省科学院) 自然语言处理与认知计算研究团队官方网站 （源代码仓库）。齐鲁工业大学NLP团队唯一官方网站项目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
-| 04 | Duyu Audio Processor Core (DAPC) | DuYu音频处理器核心。简单处理音频，诸如：变换采样格式，增益衰减，声道混缩，混响回声效果，调整速度与音调，剪切，混合，添加静音，淡入淡出效果，FFT滤波，3D环绕声音效等。 | https://github.com/duyu09/Duyu-Audio-Processor-Core |
-| 05 | SIMS System Software | 基于Java Swing与MySQL的学生信息管理系统，可实现基本的CRUD操作。已有发行版可执行文件，运行前需自己部署MySQL数据库。 | https://github.com/duyu09/SIMS-system-Java |
-| 06 | Unified Assignment Submission Platform (UASP) | 软件工程(开发)21-1-2班 统一作业提交平台，便于收集作业和统计班内作业提交情况。UASP系统已在2023年上半学期使用。 | https://github.com/duyu09/Unified-Assignment-Submission-Platform |
-| 07 | AutoCommand (AC) | AutoCommand自动执行助手是一款可以让人们能方便而又快捷地执行电脑上特定的操作的自动化软件。是“无代码编程”的雏形。 | https://github.com/duyu09/AutoCommand |
-| 08 | DuyuEncryptor (DyEnc) | 一款使用VBA(Visual Basic 6.0)和C++语言开发的文件数据加密软件。集文件加密，文件销毁和其他安全措施于一体的集成数据加密软件系统。 | https://github.com/duyu09/DyEncryptor6.0_Plus |
-| 09 | Participate in Development of ChatGLM Optimized For Law Related Content as a researcher at Quan Cheng Laboratory (QCL) of Tsinghua University. | 担任清华大学泉城实验室网络空间安全治理项目组流动科研人员，针对法律内容方面的ChatGLM大模型优化与数据处理。 | _Temporarily closed source due to issues involving laboratory secrets_ |
-
 <br>
 
 <div align="center" style="text-align:center;">
  <h3>I am a student from Faculty of Computer Science & Technology, <br> Qilu University of Technology (Shandong Academy of Sciences).</h3>
  <img src="https://github.com/duyu09/Duyu09/assets/92843163/0e1aed24-92ae-48fd-ac13-35e34f032f66" style="width:48%;">&nbsp;&nbsp;
  <img src="https://github.com/duyu09/Duyu09/assets/92843163/16494c85-3808-447c-a73e-40d509018fe0" style="width:32%;">
+</div>
+
+<br>
+
+<div align="center" style="text-align:center;">
+<div><b>Number of Total Visits (All of Duyu09's GitHub Projects): </b><br><img src="https://profile-counter.glitch.me/duyu09/count.svg" /></div> 
+<br>
+<!-- <div>Number of Total Followers: &nbsp; <img src="https://img.shields.io/github/followers/duyu09?label=Follow&style=social" /></div>  --> 
+<div><b>Number of Total Visits (Duyu09's GitHub HomePage): </b><br><img src="https://profile-counter.glitch.me/duyu09-HomePage/count.svg" /></div> 
 </div>
 
 <!---
