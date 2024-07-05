@@ -4,7 +4,7 @@
   <br>
   <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" /> -->
   <img width="150" src="https://github.com/duyu09/Duyu09/assets/92843163/05a9c583-085d-4cb4-a6bf-1ae60e19b5a0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duyu09&langs_count=10&layout=compact&show_icons=true&count_private=false&hide=prs&text_color=fff&bg_color=000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyu09&langs_count=20&layout=donut-vertical&show_icons=true&count_private=True&hide=prs&text_color=fff&bg_color=000">
   <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" /> -->
   <img width="150" src="https://github.com/duyu09/Duyu09/assets/92843163/5a9acac8-59f0-4e8c-b9c0-91a90f67485a" />
 </div>
