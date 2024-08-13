@@ -1,5 +1,8 @@
 <div style="display:inline-block;" align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=28&weight=500&lines=I+am+@Duyu09!;A+Programming+Enthusiast!" alt="Hi, I'm Duyu09!" /> -->
+  <img width="960" alt="DISEMBARK" src="https://github.com/user-attachments/assets/926e0658-a56b-4223-8f79-01ccea857242" style="width:85%;">
+
+
   <img src="https://github.com/duyu09/Duyu09/assets/92843163/98f64017-662e-467c-85f8-173ea4bf7d4b" />
   <br>
   <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" /> -->
