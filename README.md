@@ -53,11 +53,14 @@
 
  <b>Welcome to visit my blogs, We can talk about information technology there! </b>
 
-| ITEM | WEB SITE | EMAIL ID | ADDRESS |
+| ITEM | WEBSITE | EMAIL ID | ADDRESS |
 | ----- | ----- | ----- | ----- |
-| **My Home Page:** | https://www.duyu09.site | **01** | qluduyu09@163.com |
-| **My Gitee:** | https://gitee.com/duyu09 | **02** | qluduyu09@gmail.com |
-| **My CSDN Blog:** | https://blog.csdn.net/QLU_Duyu | **03** | 202103180009@stu.qlu.edu.cn |
+| **GitHub** | https://github.com/duyu09 | **01** | 202103180009@stu.qlu.edu.cn |
+| **ORCID** | https://orcid.org/0009-0003-3740-9627 | **02** | qluduyu09@gmail.com |
+| **CSDN** | https://blog.csdn.net/QLU_Duyu | **03** | qluduyu09@163.com |
+| **BiliBili** | https://space.bilibili.com/1065298084 |
+| **HuggingFace** | https://huggingface.co/Duyu |
+| **Kaggle** | https://www.kaggle.com/duyu09 |
 
 </div>
 
@@ -67,9 +70,9 @@
 
 | ID | NAME (ABBR. IN PARENTHESES) | INTRODUCTION | LINK OF REPOSITORIES |
 | ----- | ----- | ----- | ----- |
-| 01 | Powerload Classification and Prediction System | 基于深度学习算法的电力负载分类与预测系统。用于根据住户耗电总功率时序数据，推断出可能运行的常见电器种类并预测未来时间的电力消耗功率。 | https://github.com/duyu09/Powerload-Classification-and-Prediction-System |
+| 01 | Power Load Classification and Prediction System Based on Deep Learning Algorithms (**PLDA**) | 基于深度学习算法的电力负载分类与预测系统。用于根据住户耗电总功率时序数据，推断出可能运行的常见电器种类并预测未来时间的电力消耗功率。 | https://github.com/duyu09/Powerload-Classification-and-Prediction-System |
 | 02 | Intelligent Learning Platform Based on LLM & Regression Analysis Algorithms (**ILP**) | 我的青春不迷茫-基于LLM与回归分析的大学生智能生涯指导与学习大平台，针对解决大学生迷茫问题的多功能一站式网站。 | https://github.com/duyu09/Intelligent-Learning-Platform |
-| 03 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Sciences) | 齐鲁工业大学(山东省科学院) 自然语言处理与认知计算研究团队官方网站 （源代码仓库）。齐鲁工业大学NLP团队唯一官方网站项目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
+| 03 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Sciences) | 齐鲁工业大学(山东省科学院) 自然语言处理与认知计算研究团队官方网站 （源代码仓库）齐鲁工业大学NLP团队唯一官方网站项目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
 | 04 | Lexipolis-9B-Chat LLM v1.0 | 政法智言大模型（**Lexipolis-9B-Chat**）基于清华大学THUDM开源的GLM-4-9B大模型，采用LoRA算法微调；擅长法律咨询、公文撰写、政治理解等政法领域文本生成与处理 | https://github.com/duyu09/Lexipolis-9B-Chat |
 | 05 | Duyu Audio Processor Core (**DAPC**) | DuYu音频处理器核心。简单处理音频，诸如：变换采样格式，增益衰减，声道混缩，混响回声效果，调整速度与音调，剪切，混合，添加静音，淡入淡出效果，FFT滤波，3D环绕声音效等。 | https://github.com/duyu09/Duyu-Audio-Processor-Core |
 | 06 | SIMS System Software | 基于Java Swing与MySQL的学生信息管理系统，可实现基本的CRUD操作。已有发行版可执行文件，运行前需自己部署MySQL数据库。 | https://github.com/duyu09/SIMS-system-Java |
