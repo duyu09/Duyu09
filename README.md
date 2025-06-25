@@ -1,6 +1,6 @@
 <div style="display:inline-block;" align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=28&weight=500&lines=I+am+@Duyu09!;A+Programming+Enthusiast!" alt="Hi, I'm Duyu09!" /> -->
-  <img width="960" alt="DISEMBARK" src="https://github.com/user-attachments/assets/7852ce46-96dc-41f4-8fd5-3ee0beb37ce2" style="width:70%;">
+  <img width="960" alt="DISEMBARK" src="https://github.com/user-attachments/assets/76a5044f-0fb6-468a-9b92-cb93a06acde0" style="width:70%;">
 
 ------
 
