@@ -1,56 +1,16 @@
 <div style="display:inline-block;" align="center">
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=28&weight=500&lines=I+am+@Duyu09!;A+Programming+Enthusiast!" alt="Hi, I'm Duyu09!" /> -->
-  <img width="960" alt="DISEMBARK" src="https://github.com/user-attachments/assets/76a5044f-0fb6-468a-9b92-cb93a06acde0" style="width:82.5%;">
-
-------
-
-  <img src="https://github.com/duyu09/Duyu09/assets/92843163/98f64017-662e-467c-85f8-173ea4bf7d4b" />
-  <br>
-  <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" /> -->
-  <img width="150" src="https://github.com/duyu09/Duyu09/assets/92843163/05a9c583-085d-4cb4-a6bf-1ae60e19b5a0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyu09&langs_count=20&layout=donut-vertical&show_icons=true&count_private=True&hide=prs&text_color=fff&bg_color=000">
-  <!-- <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" /> -->
-  <img width="150" src="https://github.com/duyu09/Duyu09/assets/92843163/5a9acac8-59f0-4e8c-b9c0-91a90f67485a" />
-</div>
-<br>
-<div style="display:inline-block;" align="center">
+  <img width="960" alt="GIỮ VỮNG TÂM ĐẦU, KIÊN ĐỊNH CHÍ HƯỚNG" src="https://github.com/user-attachments/assets/76a5044f-0fb6-468a-9b92-cb93a06acde0" style="width:82.5%;">
   
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+------
+</div>
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![vb](https://img.shields.io/badge/VB-.net-blue)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+&nbsp;&nbsp;&nbsp;&nbsp; **Du Yu (Chinese Simplified: 杜宇, Vietnamese: Đỗ Vũ, @duyu09), Bachelor of Engineering in Software Engineering, Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences); Master Candidate of Engineering in Computer Science and Technology, School of Electronic and Information Engineering, LZJTU. Research Focus: Machine Learning & Data Mining.**
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyu09&langs_count=8&layout=compact&show_icons=true&count_private=True&hide_border=True&bg_color=52,0087FF,00006C&title_color=fff&text_color=fff" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=duyu09&show_icons=true&hide_border=True&bg_color=19,0087FF,00006C&title_color=fff&text_color=fff&icon_color=E6E20C&include_all_commits=True" />
 
-<br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duyu09&theme=blueberry">
 
-![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duyu09&theme=github_dark)
- 
-![info](https://github-readme-streak-stats.herokuapp.com/?user=duyu09&theme=dark&hide_border=true)
-
-<img src="https://github.com/duyu09/Duyu09/assets/92843163/e5dab1c1-e246-4b87-9507-5f90dd3b10e0" style="width:60px;">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/duyu09/Duyu09/assets/92843163/69b0539d-c1b3-45e7-b6d3-bcee979aa25a" alt="Rigorous! Critical! Striving!" />
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&weight=500&lines=Rigorous!+Critical!+Striving!" alt="Rigorous! Critical! Striving!" /> -->
-
+<img src="https://github-profile-trophy.vercel.app/?username=duyu09&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true" />
 
  <b>Welcome to visit my blogs, We can talk about information technology there! </b>
 
@@ -61,32 +21,25 @@
 | **CSDN** | https://blog.csdn.net/QLU_Duyu | **03** | qluduyu09@163.com |
 | **BiliBili** | https://space.bilibili.com/1065298084 |
 | **HuggingFace** | https://huggingface.co/Duyu |
-| **Kaggle** | https://www.kaggle.com/duyu09 |
+| **Personal Page** | https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/content/1837.htm |
 
-</div>
-
-<div style="display:inline-block;" align="center">
- <h1>01. Projects Presentation</h1>
-</div>
+## 01. Projects Presentation
 
 | ID | NAME (ABBR. IN PARENTHESES) | INTRODUCTION | LINK OF REPOSITORIES |
 | ----- | ----- | ----- | ----- |
-| 01 | Power Load Classification and Prediction System Based on Deep Learning Algorithms (**PLDA**) | 基于深度学习算法的电力负载分类与预测系统。用于根据住户耗电总功率时序数据，推断出可能运行的常见电器种类并预测未来时间的电力消耗功率。 | https://github.com/duyu09/Powerload-Classification-and-Prediction-System |
-| 02 | Intelligent Learning Platform Based on LLM & Regression Analysis Algorithms (**ILP**) | 我的青春不迷茫-基于LLM与回归分析的大学生智能生涯指导与学习大平台，针对解决大学生迷茫问题的多功能一站式网站。 | https://github.com/duyu09/Intelligent-Learning-Platform |
-| 03 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Sciences) | 齐鲁工业大学(山东省科学院) 自然语言处理与认知计算研究团队官方网站 （源代码仓库）齐鲁工业大学NLP团队唯一官方网站项目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
-| 04 | Lexipolis-9B-Chat LLM v1.0 | 政法智言大模型（**Lexipolis-9B-Chat**）基于清华大学THUDM开源的GLM-4-9B大模型，采用LoRA算法微调；擅长法律咨询、公文撰写、政治理解等政法领域文本生成与处理 | https://github.com/duyu09/Lexipolis-9B-Chat |
-| 05 | Duyu Audio Processor Core (**DAPC**) | DuYu音频处理器核心。简单处理音频，诸如：变换采样格式，增益衰减，声道混缩，混响回声效果，调整速度与音调，剪切，混合，添加静音，淡入淡出效果，FFT滤波，3D环绕声音效等。 | https://github.com/duyu09/Duyu-Audio-Processor-Core |
-| 06 | SIMS System Software | 基于Java Swing与MySQL的学生信息管理系统，可实现基本的CRUD操作。已有发行版可执行文件，运行前需自己部署MySQL数据库。 | https://github.com/duyu09/SIMS-system-Java |
-| 07 | Unified Assignment Submission Platform (**UASP**) | 软件工程(开发)21-1-2班 统一作业提交平台，便于收集作业和统计班内作业提交情况。UASP系统已在2023年上半学期使用。 | https://github.com/duyu09/Unified-Assignment-Submission-Platform |
-| 08 | AutoCommand (**AC**) | AutoCommand自动执行助手是一款可以让人们能方便而又快捷地执行电脑上特定的操作的自动化软件。是“无代码编程”的雏形。 | https://github.com/duyu09/AutoCommand |
-| 09 | DuyuEncryptor (**DyEnc**) | 一款使用VBA(Visual Basic 6.0)和C++语言开发的文件数据加密软件。集文件加密，文件销毁和其他安全措施于一体的集成数据加密软件系统。 | https://github.com/duyu09/DyEncryptor6.0_Plus |
-| 10 | Participate in Development of ChatGLM Optimized For Law Related Content as a researcher at Quan Cheng Laboratory (QCL) of Tsinghua University. | 担任清华大学泉城实验室网络空间安全治理项目组流动科研人员，针对法律内容方面的ChatGLM大模型优化与数据处理。 | _Temporarily closed source due to issues involving laboratory secrets_ |
+| 01 | Minh Khỏe Tuệ Y - Design and Implementation of a Health Management and Diagnostic Assistance System Based on LLMs and Multimodal Artificial Intelligence (Minh Khỏe Tuệ Y Smart Healthcare System, **MKTY**) | 明康慧医（MKTY）——基于LLM与多模态人工智能的健康管理与辅助诊疗系统的设计与实现（简称：明康慧医 智慧医疗系统）：利用AI与互联网技术实现智能的医疗【齐鲁工业大学（山东省科学院）优秀毕业设计项目】 | https://github.com/duyu09/MKTY-System |
+| 02 | Power Load Classification and Prediction System Based on Deep Learning Algorithms (**PLDA**) | 基于深度学习算法的电力负载分类与预测系统。用于根据住户耗电总功率时序数据，推断出可能运行的常见电器种类并预测未来时间的电力消耗功率。 | https://github.com/duyu09/Powerload-Classification-and-Prediction-System |
+| 03 | Intelligent Learning Platform Based on LLM & Regression Analysis Algorithms (**ILP**) | 我的青春不迷茫-基于LLM与回归分析的大学生智能生涯指导与学习大平台，针对解决大学生迷茫问题的多功能一站式网站。 | https://github.com/duyu09/Intelligent-Learning-Platform |
+| 04 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Sciences) | 齐鲁工业大学(山东省科学院) 自然语言处理与认知计算研究团队官方网站 （源代码仓库）齐鲁工业大学NLP团队唯一官方网站项目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
+| 05 | Lexipolis-9B-Chat LLM v1.0 | 政法智言大模型（**Lexipolis-9B-Chat**）基于清华大学THUDM开源的GLM-4-9B大模型，采用LoRA算法微调；擅长法律咨询、公文撰写、政治理解等政法领域文本生成与处理 | https://github.com/duyu09/Lexipolis-9B-Chat |
+| 06 | Duyu Audio Processor Core (**DAPC**) | DuYu音频处理器核心。简单处理音频，诸如：变换采样格式，增益衰减，声道混缩，混响回声效果，调整速度与音调，剪切，混合，添加静音，淡入淡出效果，FFT滤波，3D环绕声音效等。 | https://github.com/duyu09/Duyu-Audio-Processor-Core |
+| 07 | SIMS System Software | 基于Java Swing与MySQL的学生信息管理系统，可实现基本的CRUD操作。已有发行版可执行文件，运行前需自己部署MySQL数据库。 | https://github.com/duyu09/SIMS-system-Java |
+| 08 | Unified Assignment Submission Platform (**UASP**) | 软件工程(开发)21-1-2班 统一作业提交平台，便于收集作业和统计班内作业提交情况。UASP系统已在2023年上半学期使用。 | https://github.com/duyu09/Unified-Assignment-Submission-Platform |
+| 09 | AutoCommand (**AC**) | AutoCommand自动执行助手是一款可以让人们能方便而又快捷地执行电脑上特定的操作的自动化软件。是“无代码编程”的雏形。 | https://github.com/duyu09/AutoCommand |
+| 10 | DuyuEncryptor (**DyEnc**) | 一款使用VBA(Visual Basic 6.0)和C++语言开发的文件数据加密软件。集文件加密，文件销毁和其他安全措施于一体的集成数据加密软件系统。 | https://github.com/duyu09/DyEncryptor6.0_Plus |
+| 11 | Participate in Development of ChatGLM Optimized For Law Related Content as a researcher at Quan Cheng Laboratory (QCL) of Tsinghua University. | 担任清华大学泉城实验室网络空间安全治理项目组流动科研人员，针对法律内容方面的ChatGLM大模型优化与数据处理。 | _Temporarily closed source due to issues involving laboratory secrets_ |
 
-
-<br><br>
-<div style="display:inline-block;" align="center">
-  <h1>02. Table of Some Useful Tools & Technology Stacks</h1>
-</div>
+## 02. Table of Some Useful Tools & Technology Stacks
 
 &nbsp;&nbsp;&nbsp;&nbsp;These are some useful tools and techstacks that I used before, It includes various front-end frameworks, various back-end programming languages, and artificial intelligence development frameworks. We should learn more about them.
 
@@ -398,9 +351,34 @@
 </table>
 
 <div style="display:inline-block;" align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=duyu09&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![vb](https://img.shields.io/badge/VB-.net-blue)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=style=flat-square&logo=Qt&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
+![Shell Script](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
+
 </div>
-<br>
 
 ```mermaid
 mindmap
@@ -421,10 +399,10 @@ mindmap
         TensorFlow
         PyTorch
       root((AI))
-        Machine Learning
+        Machine Learning & Data Mining
         Deep Learning
         NLP
-        CV and VIP
+        CV & VIP
       root((Media))
         
       root((Basic))
@@ -435,25 +413,14 @@ mindmap
         Database
 ```
 
-<br>
+------
 
-<div align="center" style="text-align:center;">
- <h3>I am a student from Faculty of Computer Science & Technology, <br> Qilu University of Technology (Shandong Academy of Sciences).</h3>
- <img src="https://github.com/duyu09/Duyu09/assets/92843163/0e1aed24-92ae-48fd-ac13-35e34f032f66" style="width:48%;">&nbsp;&nbsp;
- <img src="https://github.com/duyu09/Duyu09/assets/92843163/16494c85-3808-447c-a73e-40d509018fe0" style="width:32%;">
-</div>
+## 03.Visitor Statistics
 
-<br>
-
-<div align="center" style="text-align:center;">
-<div><b>Number of Total Visits (All of Duyu09's GitHub Projects): </b><br><img src="https://profile-counter.glitch.me/duyu09/count.svg" /></div> 
-<br>
-<!-- <div>Number of Total Followers: &nbsp; <img src="https://img.shields.io/github/followers/duyu09?label=Follow&style=social" /></div>  --> 
-<div><b>Number of Total Visits (Duyu09's GitHub HomePage): </b><br><img src="https://profile-counter.glitch.me/duyu09-HomePage/count.svg" /></div> 
-</div>
+<a href="https://u8views.com/github/duyu09"><img src="https://u8views.com/api/v1/github/profiles/92843163/views/day-week-month-total-count.svg"></a>
 
 <!---
 GitHub HomePage Profile of DuYu (@Duyu09).
-Copyright (c) 2021~2023 DuYu (@Duyu09, No.202103180009), Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences).
+Copyright (c) 2021~2025 DuYu (@Duyu09, No.202103180009).
 ---->
 
