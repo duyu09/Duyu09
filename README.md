@@ -415,6 +415,14 @@ mindmap
 
 ------
 
+<img src="https://github.com/duyu09/Duyu09/assets/92843163/e5dab1c1-e246-4b87-9507-5f90dd3b10e0" style="width:60px;" /><br>
+
+<img src="https://github.com/duyu09/Duyu09/assets/92843163/98f64017-662e-467c-85f8-173ea4bf7d4b" /><br>
+
+<img src="https://github.com/duyu09/Duyu09/assets/92843163/69b0539d-c1b3-45e7-b6d3-bcee979aa25a" alt="Rigorous! Critical! Striving!" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&weight=500&lines=Rigorous!+Critical!+Striving!" alt="Rigorous! Critical! Striving!" /> -->
+
+
 ## 03.Visitor Statistics
 
 <a href="https://u8views.com/github/duyu09"><img src="https://u8views.com/api/v1/github/profiles/92843163/views/day-week-month-total-count.svg"></a>
