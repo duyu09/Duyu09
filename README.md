@@ -4,7 +4,7 @@
 ------
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Du Yu (Chinese Simplified: 杜宇, Vietnamese: Đỗ Vũ, @duyu09), Bachelor of Engineering in Software Engineering, Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences); Master Candidate of Engineering in Computer Science and Technology, School of Electronic and Information Engineering, LZJTU. Research Focus: Machine Learning & Data Mining.**
+&nbsp;&nbsp;&nbsp;&nbsp; **Du Yu (Chinese Simplified: 杜宇; Vietnamese: Đỗ Vũ; @duyu09) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University. His research interests are in machine learning and data mining.**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyu09&langs_count=8&layout=compact&show_icons=true&count_private=True&hide_border=True&bg_color=52,0087FF,00006C&title_color=fff&text_color=fff" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=duyu09&show_icons=true&hide_border=True&bg_color=19,0087FF,00006C&title_color=fff&text_color=fff&icon_color=E6E20C&include_all_commits=True" />
 
