@@ -24,5 +24,6 @@ jobs:
           plugin_traffic: yes
           plugin_languages: yes
           plugin_languages_ignored: makefile
+          plugin_languages_indepth: yes
           plugin_languages_details: bytes-size, lines, percentage
           plugin_languages_limit: 8
