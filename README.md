@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td align="center" width="56%">
+    <td align="center" width="52%">
       <h2>✨Profile✨</h2>
       <p align="left">
          <b>
