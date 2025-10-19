@@ -4,22 +4,43 @@
 ------
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Du Yu (Chinese Simplified: 杜宇; Vietnamese: Đỗ Vũ; @duyu09) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University. His research interests are in machine learning / data mining / NLP.**
+<table>
+  <tr>
+    <td align="center" width="56%">
+      <h2>✨Profile✨</h2>
+      <p align="left">
+         <b>
+          &nbsp;&nbsp;&nbsp;&nbsp;Du Yu (Chinese Simplified: 杜宇; Vietnamese: Đỗ Vũ; @duyu09) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University. His research interests are in machine learning / data mining / NLP.
+        </b>
+        <br><br>
+        <b>Emails:</b><br>
+        qluduyu09@163.com<br>
+        qluduyu09@gmail.com<br>
+        11250717@stu.lzjtu.edu.cn<br>
+        202103180009@stu.qlu.edu.cn
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <img src="./github-metrics.svg" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyu09&langs_count=8&layout=compact&show_icons=true&count_private=True&hide_border=True&bg_color=52,0087FF,00006C&title_color=fff&text_color=fff" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=duyu09&show_icons=true&hide_border=True&bg_color=19,0087FF,00006C&title_color=fff&text_color=fff&icon_color=E6E20C&include_all_commits=True" />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duyu09&theme=blueberry">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyu09&langs_count=8&layout=compact&show_icons=true&count_private=True&hide_border=True&bg_color=52,0087FF,00006C&title_color=fff&text_color=fff" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=duyu09&show_icons=true&hide_border=True&bg_color=19,0087FF,00006C&title_color=fff&text_color=fff&icon_color=E6E20C&include_all_commits=True" />
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duyu09&theme=blueberry"> -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=duyu09&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true" />
 
  <b>Welcome to visit my blogs, We can talk about information technology there! </b>
 
-| ITEM | WEBSITE | EMAIL ID | ADDRESS |
-| ----- | ----- | ----- | ----- |
-| **GitHub** | https://github.com/duyu09 | **01** | qluduyu09@163.com |
-| **ORCID** | https://orcid.org/0009-0003-3740-9627 | **02** | qluduyu09@gmail.com |
-| **CSDN** | https://blog.csdn.net/QLU_Duyu | **03** | 202103180009@stu.qlu.edu.cn |
-| **BiliBili** | https://space.bilibili.com/1065298084 | **04** | 11250717@stu.lzjtu.edu.cn |
+| ITEM | WEBSITE |
+| ----- | ----- |
+| **GitHub** | https://github.com/duyu09 |
+| **ORCID** | https://orcid.org/0009-0003-3740-9627 |
+| **CSDN** | https://blog.csdn.net/QLU_Duyu |
+| **BiliBili** | https://space.bilibili.com/1065298084 |
 | **HuggingFace** | https://huggingface.co/Duyu |
 | **Personal Page** | https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/content/1837.htm |
 
