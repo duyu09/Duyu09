@@ -1,7 +1,6 @@
 <div style="display:inline-block;" align="center">
-  <img width="960" alt="GIỮ VỮNG TÂM ĐẦU, KIÊN ĐỊNH CHÍ HƯỚNG" src="https://github.com/user-attachments/assets/76a5044f-0fb6-468a-9b92-cb93a06acde0" style="width:82.5%;">
-  
-------
+  <img width="960" alt="GIỮ VỮNG TÂM ĐẦU, KIÊN ĐỊNH CHÍ HƯỚNG" src="https://github.com/user-attachments/assets/6305aca3-589b-4492-8813-cbaacbc5df7b" style="width:82.5%;"> <!-- https://github.com/user-attachments/assets/76a5044f-0fb6-468a-9b92-cb93a06acde0 -->
+  <br><br>
 </div>
 
 <table>
@@ -10,7 +9,7 @@
       <h2>✨Profile✨</h2>
       <p align="left">
          <b>
-          &nbsp;&nbsp;&nbsp;&nbsp;Du Yu (Chinese Simplified: 杜宇; Vietnamese: Đỗ Vũ; @duyu09) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University. His research interests are in machine learning / data mining / NLP.
+          &nbsp;&nbsp;&nbsp;&nbsp;DU Yu (Chinese Simplified: 杜宇; Vietnamese: Đỗ Vũ) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University, under the supervision of Prof. CHEN Mei. His research focuses on Time Series Analysis (TSA) / Machine Learning / Data Mining / Natural Language Processing (NLP).
         </b>
         <br><br>
         <b>Emails:</b><br>
@@ -25,7 +24,6 @@
     </td>
   </tr>
 </table>
-
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duyu09&langs_count=8&layout=compact&show_icons=true&count_private=True&hide_border=True&bg_color=52,0087FF,00006C&title_color=fff&text_color=fff" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=duyu09&show_icons=true&hide_border=True&bg_color=19,0087FF,00006C&title_color=fff&text_color=fff&icon_color=E6E20C&include_all_commits=True" />
 
@@ -42,9 +40,9 @@
 | **CSDN** | https://blog.csdn.net/QLU_Duyu |
 | **BiliBili** | https://space.bilibili.com/1065298084 |
 | **HuggingFace** | https://huggingface.co/Duyu |
-| **Personal Page** | https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/content/1837.htm |
+| **Personal Page** | https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm |
 
-## 01. Projects Presentation
+## I. Projects Presentation
 
 | ID | NAME (ABBR. IN PARENTHESES) | INTRODUCTION | LINK OF REPOSITORIES |
 | ----- | ----- | ----- | ----- |
@@ -60,7 +58,7 @@
 | 10 | DuyuEncryptor (**DyEnc**) | 一款使用VBA(Visual Basic 6.0)和C++语言开发的文件数据加密软件。集文件加密，文件销毁和其他安全措施于一体的集成数据加密软件系统。 | https://github.com/duyu09/DyEncryptor6.0_Plus |
 | 11 | Participate in Development of ChatGLM Optimized For Law Related Content as a researcher at Quan Cheng Laboratory (QCL) of Tsinghua University. | 担任清华大学泉城实验室网络空间安全治理项目组流动科研人员，针对法律内容方面的ChatGLM大模型优化与数据处理。 | _Temporarily closed source due to issues involving laboratory secrets_ |
 
-## 02. Table of Some Useful Tools & Technology Stacks
+## II. Table of Some Useful Tools & Technology Stacks
 
 &nbsp;&nbsp;&nbsp;&nbsp;These are some useful tools and techstacks that I used before, It includes various front-end frameworks, various back-end programming languages, and artificial intelligence development frameworks. We should learn more about them.
 
@@ -444,7 +442,7 @@ mindmap
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&weight=500&lines=Rigorous!+Critical!+Striving!" alt="Rigorous! Critical! Striving!" /> -->
 
 
-## 03.Visitor Statistics
+## III. Visitor Statistics
 
 <a href="https://u8views.com/github/duyu09"><img src="https://u8views.com/api/v1/github/profiles/92843163/views/day-week-month-total-count.svg"></a>
 
