@@ -1,5 +1,5 @@
 <div style="display:inline-block;" align="center">
-  <img width="960" alt="GIỮ VỮNG TÂM ĐẦU, KIÊN ĐỊNH CHÍ HƯỚNG" src="https://github.com/user-attachments/assets/6305aca3-589b-4492-8813-cbaacbc5df7b" style="width:82.5%;"> <!-- https://github.com/user-attachments/assets/76a5044f-0fb6-468a-9b92-cb93a06acde0 -->
+  <img width="960" alt="GIỮ VỮNG TÂM ĐẦU, KIÊN ĐỊNH CHÍ HƯỚNG" src="https://github.com/user-attachments/assets/6305aca3-589b-4492-8813-cbaacbc5df7b" style="width:92%;"> <!-- https://github.com/user-attachments/assets/76a5044f-0fb6-468a-9b92-cb93a06acde0 -->
   <br><br>
 </div>
 
