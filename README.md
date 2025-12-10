@@ -6,17 +6,17 @@
 <table>
   <tr>
     <td align="center" width="52%">
-      <h2>✨Profile✨</h2>
+      <h2>✨<b>Profile</b>✨</h2>
       <p align="left">
          <b>
-          &nbsp;&nbsp;&nbsp;&nbsp;DU Yu (Chinese Simplified: 杜宇; Vietnamese: Đỗ Vũ) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University, under the supervision of Prof. CHEN Mei. His research focuses on Time Series Analysis (TSA) / Machine Learning / Data Mining / Natural Language Processing (NLP).
+          &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2570/content/1837.htm" style="font-weight: 900">DU Yu</a> (Chinese Traditional: <i>杜宇</i>; Vietnamese: <i>ĐỖ Vũ</i>) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University, under the supervision of Prof. CHEN Mei (Chinese Traditional: <i>陳梅</i>; Vietnamese: <i>TRẦN Mai</i>). His research focuses on Time Series Analysis (TSA) / Machine Learning / Data Mining / Natural Language Processing (NLP).
         </b>
         <br><br>
         <b>Emails:</b><br>
-        qluduyu09@163.com<br>
-        qluduyu09@gmail.com<br>
-        11250717@stu.lzjtu.edu.cn<br>
-        202103180009@stu.qlu.edu.cn
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:qluduyu09@163.com">qluduyu09@163.com</a><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:qluduyu09@gmail.com">qluduyu09@gmail.com</a><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:11250717@stu.lzjtu.edu.cn">11250717@stu.lzjtu.edu.cn</a><br>
+        &nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:202103180009@stu.qlu.edu.cn">202103180009@stu.qlu.edu.cn</a>
       </p>
     </td>
     <td align="center" width="50%">
