@@ -9,7 +9,7 @@
       <h2>✨<b>Profile</b>✨</h2>
       <p align="left">
          <b>
-          &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2570/content/1837.htm" style="font-weight: 900">DU Yu</a> (Chinese Traditional: <i>杜宇</i>; Vietnamese: <i>ĐỖ Vũ</i>) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University, under the supervision of Prof. CHEN Mei (Chinese Traditional: <i>陳梅</i>; Vietnamese: <i>TRẦN Mai</i>). His research focuses on Time Series Analysis (TSA) / Machine Learning / Data Mining / Natural Language Processing (NLP).
+          &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2570/content/1837.htm" style="font-weight: 900">DU Yu</a> (Chinese Traditional: <i>杜宇</i>; Vietnamese: <i>ĐỖ Vũ</i>) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University, under the supervision of <a href="https://faculty.lzjtu.edu.cn/chenmei/en/index/2557/list/index.htm">Prof. CHEN Mei</a> (Chinese Traditional: <i>陳梅</i>; Vietnamese: <i>TRẦN Mai</i>). His research focuses on Time Series Analysis (TSA) / Machine Learning / Data Mining / Natural Language Processing (NLP).
         </b>
         <br><br>
         <b>Emails:</b><br>
