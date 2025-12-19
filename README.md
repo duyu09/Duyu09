@@ -46,7 +46,7 @@
 | **CSDN** | https://blog.csdn.net/QLU_Duyu |
 | **BiliBili** | https://space.bilibili.com/1065298084 |
 | **HuggingFace** | https://huggingface.co/Duyu |
-| **Personal Page** | [https://faculty.lzjtu.edu.cn/chenmei/en/](https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm)<br><a href="https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm">xsxx/2554/content/1837.htm</a> |
+| **Personal Page** | [https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/](https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm)<br><a href="https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm">content/1837.htm</a> |
 
 </td>
 <td>
