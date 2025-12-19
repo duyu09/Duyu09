@@ -29,9 +29,15 @@
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=duyu09&theme=blueberry"> -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=duyu09&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true" />
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=duyu09&theme=gruvbox&row=1&column=8&no-frame=true&no-bg=true" /> -->
 
- <b>Welcome to visit my blogs, We can talk about information technology there! </b>
+<table>
+<tr>
+<td>
+
+**Welcome to visit my blogs!**
+
+**We can talk about information technology there!**
 
 | ITEM | WEBSITE |
 | ----- | ----- |
@@ -40,7 +46,17 @@
 | **CSDN** | https://blog.csdn.net/QLU_Duyu |
 | **BiliBili** | https://space.bilibili.com/1065298084 |
 | **HuggingFace** | https://huggingface.co/Duyu |
-| **Personal Page** | https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm |
+| **Personal Page** | [https://faculty.lzjtu.edu.cn/chenmei/en/](https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm)<br><a href="https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm">xsxx/2554/content/1837.htm</a> |
+
+</td>
+<td>
+
+<img src="https://github.com/user-attachments/assets/83b51bc1-a151-409c-a7ae-65e26a01600d" alt="Climbing-Mt-Lan" />
+
+</td>
+</tr>
+</table>
+
 
 ## I. Projects Presentation
 
