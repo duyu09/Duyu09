@@ -51,7 +51,7 @@
 </td>
 <td>
 
-<img src="https://github.com/user-attachments/assets/83b51bc1-a151-409c-a7ae-65e26a01600d" alt="Climbing-Mt-Lan" />
+<img src="https://github.com/user-attachments/assets/4e392bbe-dc2b-4db1-9dfb-66dacf461e82" alt="Climbing-Mt-Lan" />
 
 </td>
 </tr>
