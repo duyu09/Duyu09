@@ -9,7 +9,7 @@
       <h2>✨<b>Profile</b>✨</h2>
       <p align="left">
          <b>
-          &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2570/content/1837.htm" style="font-weight: 900">DU Yu</a> (Chinese Traditional: <i>杜宇</i>; Vietnamese: <i>ĐỖ Vũ</i>) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University, under the supervision of <a href="https://faculty.lzjtu.edu.cn/chenmei/en/index/2557/list/index.htm">Prof. CHEN Mei</a> (Chinese Traditional: <i>陳梅</i>; Vietnamese: <i>TRẦN Mai</i>). His research focuses on Time Series Analysis (TSA) / Machine Learning / Data Mining / Natural Language Processing (NLP).
+          &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2570/content/1837.htm" style="font-weight: 900">DU Yu</a> (Chinese Trad.: <i>杜宇</i>; Vietnamese: <i>ĐỖ Vũ</i>) received his Bachelor of Engineering in Software Engineering from the Faculty of Computer Science and Technology, Qilu University of Technology (Shandong Academy of Sciences). He is currently pursuing a master’s degree in Computer Science and Technology at the School of Electronic and Information Engineering, Lanzhou Jiaotong University, under the supervision of <a href="https://faculty.lzjtu.edu.cn/chenmei/en/index/2557/list/index.htm">Prof. CHEN Mei</a> (Chinese Trad.: <i>陳梅</i>; Vietnamese: <i>TRẦN Mai</i>). His research focuses on Time Series Analysis (TSA) / Machine Learning / Data Mining / Natural Language Processing (NLP).
         </b>
         <br><br>
         <b>Emails:</b><br>
@@ -457,8 +457,37 @@ mindmap
 <img src="./images/svg-02.svg" alt="Rigorous! Critical! Striving!" />
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&weight=500&lines=Rigorous!+Critical!+Striving!" alt="Rigorous! Critical! Striving!" /> -->
 
+## III. Most Favorite Singer
 
-## III. Visitor Statistics
+<table>
+<tr>
+<td>
+
+```
+    Quỳnh Trang (Chinese Trad.: 瓊莊), whose real name is Thân
+Nguyễn Thùy Trang (Chinese Trad.: 申阮翠莊), was born on October 1,
+1997, in Tuy Hòa, Phú Yên province. She is a prominent young
+Vietnamese singer known for bolero, lyrical, and folk music. Passionate
+about singing from childhood, she often performed folk songs and bolero,
+and began her professional career in 2016 after joining a music
+competition, where the late artist Phi Nhung—the overseas bolero queen—
+discovered her and exceptionally took her as an adoptive daughter,
+bending her usual rules. Under her godmother's devoted guidance, Quỳnh
+Trang quickly established herself with a clear, sweet, and emotive voice,
+paired with a petite and gentle appearance that endears her to
+audiences, earning her the affectionate nickname bolero angel.
+```
+
+</td>
+<td>
+
+<a href="./images/quynh_trang/quynh.trang.avatar.final.png"><img src="./images/quynh_trang/quynh.trang.avatar.med.webp" alt="quynh-trang-avatar" style="width:100%" /></a>
+
+</td>
+</tr>
+</table>
+
+## IV. Visitor Statistics
 
 <a href="https://u8views.com/github/duyu09"><img src="https://u8views.com/api/v1/github/profiles/92843163/views/day-week-month-total-count.svg"></a>
 
