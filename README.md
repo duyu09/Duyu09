@@ -40,7 +40,7 @@
   "name": "杜宇",
   "alias": ["Du Yu", "Đỗ Vũ"],
   "place": ["Jinan, Shandong", "Lanzhou, Gansu"],
-  "role": "Master's Candidate in Computer S.&T. at LZJTU",
+  "role": "Master's Candidate in Computer S&T @LZJTU",
   "advisor": "Professor Chen Mei",
   "education": {
     "MEng.": "Lanzhou Jiaotong University",
@@ -79,7 +79,7 @@
 | **Zhihu**              | https://www.zhihu.com/people/duyu09                                      | **Quora**              | https://www.quora.com/profile/Du-Yu-2-1         |
 | **Gitcode**            | https://gitcode.com/duyu09                                               | **PyPI**               | https://pypi.org/user/Duyu09                    |
 | **CNBlogs**            | https://www.cnblogs.com/duyu09                                           | **OSChina**            | https://my.oschina.net/u/9501904                |
-| **Tatoeba**            | https://tatoeba.org/zh-cn/user/profile/Duyu09                            | **Web of Science**     | https://www.webofscience.com/wos/author/record/OYF-6014-2025 |
+| **Tatoeba**            | https://tatoeba.org/zh-cn/user/profile/Duyu09                            | **Web of Science**     | [https://www.webofscience.com/](https://www.webofscience.com/wos/author/record/OYF-6014-2025)<br>[wos/author/record/OYF-6014-2025](https://www.webofscience.com/wos/author/record/OYF-6014-2025) |
 | **TikTok**             | https://www.tiktok.com/@qluduyu09                                        | **Stack Overflow**     | https://stackoverflow.com/users/25525956/duyu09 |
 | **Wikipedia**          | https://zh.wikipedia.org/wiki/User:Duyu09                                | **Baidu Baike**        | https://baike.baidu.com/item/杜宇/66707830      |
 
