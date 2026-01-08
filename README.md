@@ -87,17 +87,17 @@
 
 | ID | NAME (ABBR. IN PARENTHESES) | INTRODUCTION | LINK OF REPOSITORIES |
 | ----- | ----- | ----- | ----- |
-| 01 | Minh Khỏe Tuệ Y - Design and Implementation of a Health Management and Diagnostic Assistance System Based on LLMs and Multimodal Artificial Intelligence (Minh Khỏe Tuệ Y Smart Healthcare System, **MKTY**) | 明康慧医（MKTY）——基于LLM与多模态人工智能的健康管理与辅助诊疗系统的设计与实现（简称：明康慧医 智慧医疗系统）：利用AI与互联网技术实现智能的医疗【齐鲁工业大学（山东省科学院）优秀毕业设计项目】 | https://github.com/duyu09/MKTY-System |
-| 02 | Power Load Classification and Prediction System Based on Deep Learning Algorithms (**PLDA**) | 基于深度学习算法的电力负载分类与预测系统。用于根据住户耗电总功率时序数据，推断出可能运行的常见电器种类并预测未来时间的电力消耗功率。 | https://github.com/duyu09/Powerload-Classification-and-Prediction-System |
-| 03 | Intelligent Learning Platform Based on LLM & Regression Analysis Algorithms (**ILP**) | 我的青春不迷茫-基于LLM与回归分析的大学生智能生涯指导与学习大平台，针对解决大学生迷茫问题的多功能一站式网站。 | https://github.com/duyu09/Intelligent-Learning-Platform |
-| 04 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Sciences) | 齐鲁工业大学(山东省科学院) 自然语言处理与认知计算研究团队官方网站 （源代码仓库）齐鲁工业大学NLP团队唯一官方网站项目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
-| 05 | Lexipolis-9B-Chat LLM v1.0 | 政法智言大模型（**Lexipolis-9B-Chat**）基于清华大学THUDM开源的GLM-4-9B大模型，采用LoRA算法微调；擅长法律咨询、公文撰写、政治理解等政法领域文本生成与处理 | https://github.com/duyu09/Lexipolis-9B-Chat |
-| 06 | Duyu Audio Processor Core (**DAPC**) | DuYu音频处理器核心。简单处理音频，诸如：变换采样格式，增益衰减，声道混缩，混响回声效果，调整速度与音调，剪切，混合，添加静音，淡入淡出效果，FFT滤波，3D环绕声音效等。 | https://github.com/duyu09/Duyu-Audio-Processor-Core |
-| 07 | SIMS System Software | 基于Java Swing与MySQL的学生信息管理系统，可实现基本的CRUD操作。已有发行版可执行文件，运行前需自己部署MySQL数据库。 | https://github.com/duyu09/SIMS-system-Java |
-| 08 | Unified Assignment Submission Platform (**UASP**) | 软件工程(开发)21-1-2班 统一作业提交平台，便于收集作业和统计班内作业提交情况。UASP系统已在2023年上半学期使用。 | https://github.com/duyu09/Unified-Assignment-Submission-Platform |
-| 09 | AutoCommand (**AC**) | AutoCommand自动执行助手是一款可以让人们能方便而又快捷地执行电脑上特定的操作的自动化软件。是“无代码编程”的雏形。 | https://github.com/duyu09/AutoCommand |
-| 10 | DuyuEncryptor (**DyEnc**) | 一款使用VBA(Visual Basic 6.0)和C++语言开发的文件数据加密软件。集文件加密，文件销毁和其他安全措施于一体的集成数据加密软件系统。 | https://github.com/duyu09/DyEncryptor6.0_Plus |
-| 11 | Participate in Development of ChatGLM Optimized For Law Related Content as a researcher at Quan Cheng Laboratory (QCL) of Tsinghua University. | 担任清华大学泉城实验室网络空间安全治理项目组流动科研人员，针对法律内容方面的ChatGLM大模型优化与数据处理。 | _Temporarily closed source due to issues involving laboratory secrets_ |
+| 01 | Minh Khỏe Tuệ Y - Design and Implementation of a Health Management and Diagnostic Assistance System Based on LLMs and Multimodal Artificial Intelligence (Minh Khỏe Tuệ Y Smart Healthcare System, **MKTY**) | 明康慧醫（MKTY）——基於LLM與多模態人工智能的健康管理與輔助診療系統的設計與實現（簡稱：明康慧醫 智慧醫療系統）：利用AI與互聯網技術實現智能的醫療【齊魯工業大學（山東省科學院）優秀畢業設計項目】 | https://github.com/duyu09/MKTY-System |
+| 02 | Power Load Classification and Prediction System Based on Deep Learning Algorithms (**PLDA**) | 基於深度學習算法的電力負載分類與預測系統。用於根據住戶耗電總功率時序數據，推斷出可能運行的常見電器種類並預測未來時間的電力消耗功率。 | https://github.com/duyu09/Powerload-Classification-and-Prediction-System |
+| 03 | Intelligent Learning Platform Based on LLM & Regression Analysis Algorithms (**ILP**) | 我的青春不迷茫-基於LLM與迴歸分析的大學生智能生涯指導與學習大平臺，針對解決大學生迷茫問題的多功能一站式網站。 | https://github.com/duyu09/Intelligent-Learning-Platform |
+| 04 | Official website of Research Group for Natural Language Processing and Cognitive Computing of Qilu University of Technology (Shandong Academy of Sciences) | 齊魯工業大學(山東省科學院) 自然語言處理與認知計算研究團隊官方網站 （源代碼倉庫）齊魯工業大學NLP團隊唯一官方網站項目 。| https://github.com/duyu09/QLU-NLP-Laboratory |
+| 05 | Lexipolis-9B-Chat LLM v1.0 | 政法智言大模型（**Lexipolis-9B-Chat**）基於清華大學THUDM開源的GLM-4-9B大模型，採用LoRA算法微調；擅長法律諮詢、公文撰寫、政治理解等政法領域文本生成與處理 | https://github.com/duyu09/Lexipolis-9B-Chat |
+| 06 | Duyu Audio Processor Core (**DAPC**) | DuYu音頻處理器核心。簡單處理音頻，諸如：變換採樣格式，增益衰減，聲道混縮，混響回聲效果，調整速度與音調，剪切，混合，添加靜音，淡入淡出效果，FFT濾波，3D環繞聲音效等。 | https://github.com/duyu09/Duyu-Audio-Processor-Core |
+| 07 | SIMS System Software | 基於Java Swing與MySQL的學生信息管理系統，可實現基本的CRUD操作。已有發行版可執行文件，運行前需自己部署MySQL數據庫。 | https://github.com/duyu09/SIMS-system-Java |
+| 08 | Unified Assignment Submission Platform (**UASP**) | 軟件工程(開發)21-1-2班 統壹作業提交平臺，便於收集作業和統計班內作業提交情況。UASP系統已在2023年上半學期使用。 | https://github.com/duyu09/Unified-Assignment-Submission-Platform |
+| 09 | AutoCommand (**AC**) | AutoCommand自動執行助手是壹款可以讓人們能方便而又快捷地執行電腦上特定的操作的自動化軟件。是“無代碼編程”的雛形。 | https://github.com/duyu09/AutoCommand |
+| 10 | DuyuEncryptor (**DyEnc**) | 一款使用VBA(Visual Basic 6.0)和C++語言開發的文件數據加密軟件。集文件加密，文件銷毀和其他安全措施於壹體的集成數據加密軟件系統。 | https://github.com/duyu09/DyEncryptor6.0_Plus |
+| 11 | Participate in Development of ChatGLM Optimized For Law Related Content as a researcher at Quan Cheng Laboratory (QCL) of Tsinghua University. | 擔任清華大學泉城實驗室網絡空間安全治理項目組流動科研人員，針對法律內容方面的ChatGLM大模型優化與數據處理。 | _Temporarily closed source due to issues involving laboratory secrets_ |
 
 ## III. Table of Some Useful Tools & Technology Stacks
 
