@@ -35,18 +35,25 @@
 <tr>
 <td>
 
-**Welcome to visit my blogs!**
-
-**We can talk about information technology there!**
-
-| ITEM | WEBSITE |
-| ----- | ----- |
-| **GitHub** | https://github.com/duyu09 |
-| **ORCID** | https://orcid.org/0009-0003-3740-9627 |
-| **CSDN** | https://blog.csdn.net/QLU_Duyu |
-| **BiliBili** | https://space.bilibili.com/1065298084 |
-| **HuggingFace** | https://huggingface.co/Duyu |
-| **Personal Page** | [https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/](https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm)<br><a href="https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm">content/1837.htm</a> |
+```json
+{
+  "name": "杜宇",
+  "alias": ["Du Yu", "Đỗ Vũ"],
+  "place": ["Jinan, Shandong Prov.", "Lanzhou, Gansu Prov."],
+  "role": "Master's Candidate in Computer Science & Technology at LZJTU",
+  "advisor": "Professor Chen Mei",
+  "education": {
+    "MEng.": "Lanzhou Jiaotong University",
+    "BEng.": "Qilu University of Technology (Shandong Academy of Sciences)"
+  },
+  "research": [
+    "Time Series Analysis",
+    "Machine Learning",
+    "Data Mining",
+    "Natural Language Processing"
+  ]
+}
+```
 
 </td>
 <td>
@@ -57,8 +64,26 @@
 </tr>
 </table>
 
+## I. Profile Pages
 
-## I. Projects Presentation
+| **ITEM**               | **WEBSITE**                                                              | **ITEM**               | **WEBSITE**                                     |
+|------------------------|--------------------------------------------------------------------------|------------------------|-------------------------------------------------|
+| **Personal Website**   | [https://faculty.lzjtu.edu.cn/chenmei](https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/content/1837.htm)<br>[/zh_CN/xsxx/2554/content/1837.htm](https://faculty.lzjtu.edu.cn/chenmei/zh_CN/xsxx/2554/content/1837.htm) | **Personal Website02** | [https://faculty.lzjtu.edu.cn/chenmei](https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm)<br>[/en/xsxx/2554/content/1837.htm](https://faculty.lzjtu.edu.cn/chenmei/en/xsxx/2554/content/1837.htm) |
+| **Personal Website03** | https://duyu09-49dlcb7.gamma.site                                        | **Personal Website04** | https://sites.google.com/view/duyu09            |
+| **GitHub**             | https://github.com/duyu09                                                | **ORCID**              | https://orcid.org/0009-0003-3740-9627           |
+| **Gitee**              | https://gitee.com/duyu09                                                 | **BiliBili**           | https://space.bilibili.com/1065298084           |
+| **X (Twitter)**        | https://x.com/duyu09                                                     | **HuggingFace**        | https://huggingface.co/Duyu                     |
+| **Kaggle**             | https://www.kaggle.com/duyu09                                            | **CSDN**               | https://blog.csdn.net/QLU_Duyu                  |
+| **Baidu**              | https://author.baidu.com/home?app_id=1811799145336290                    | **Google Developer**   | https://g.dev/duyu09                            |
+| **YouTobe**            | https://www.youtube.com/@Duyu09                                          | **Linkedin**           | https://www.linkedin.com/in/duyu                |
+| **Zhihu**              | https://www.zhihu.com/people/duyu09                                      | **Quora**              | https://www.quora.com/profile/Du-Yu-2-1         |
+| **Gitcode**            | https://gitcode.com/duyu09                                               | **PyPI**               | https://pypi.org/user/Duyu09                    |
+| **CNBlogs**            | https://www.cnblogs.com/duyu09                                           | **OSChina**            | https://my.oschina.net/u/9501904                |
+| **Tatoeba**            | https://tatoeba.org/zh-cn/user/profile/Duyu09                            | **Web of Science**     | https://www.webofscience.com/wos/author/record/OYF-6014-2025 |
+| **TikTok**             | https://www.tiktok.com/@qluduyu09                                        | **Stack Overflow**     | https://stackoverflow.com/users/25525956/duyu09 |
+| **Wikipedia**          | https://zh.wikipedia.org/wiki/User:Duyu09                                | **Baidu Baike**        | https://baike.baidu.com/item/杜宇/66707830      |
+
+## II. Projects Presentation
 
 | ID | NAME (ABBR. IN PARENTHESES) | INTRODUCTION | LINK OF REPOSITORIES |
 | ----- | ----- | ----- | ----- |
@@ -74,7 +99,7 @@
 | 10 | DuyuEncryptor (**DyEnc**) | 一款使用VBA(Visual Basic 6.0)和C++语言开发的文件数据加密软件。集文件加密，文件销毁和其他安全措施于一体的集成数据加密软件系统。 | https://github.com/duyu09/DyEncryptor6.0_Plus |
 | 11 | Participate in Development of ChatGLM Optimized For Law Related Content as a researcher at Quan Cheng Laboratory (QCL) of Tsinghua University. | 担任清华大学泉城实验室网络空间安全治理项目组流动科研人员，针对法律内容方面的ChatGLM大模型优化与数据处理。 | _Temporarily closed source due to issues involving laboratory secrets_ |
 
-## II. Table of Some Useful Tools & Technology Stacks
+## III. Table of Some Useful Tools & Technology Stacks
 
 &nbsp;&nbsp;&nbsp;&nbsp;These are some useful tools and techstacks that I used before, It includes various front-end frameworks, various back-end programming languages, and artificial intelligence development frameworks. We should learn more about them.
 
@@ -457,7 +482,7 @@ mindmap
 <img src="./images/svg-02.svg" alt="Rigorous! Critical! Striving!" />
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=3A9CDF&size=24&weight=500&lines=Rigorous!+Critical!+Striving!" alt="Rigorous! Critical! Striving!" /> -->
 
-## III. Most Favorite Singer
+## IV. Favorite Singer
 
 <table>
 <tr>
@@ -486,7 +511,7 @@ to audiences, earning her the affectionate nickname bolero angel.
 </tr>
 </table>
 
-## IV. Visitor Statistics
+## V. Visitor Statistics
 
 <a href="https://u8views.com/github/duyu09"><img src="https://u8views.com/api/v1/github/profiles/92843163/views/day-week-month-total-count.svg"></a>
 
