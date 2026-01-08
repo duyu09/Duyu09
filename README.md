@@ -40,11 +40,11 @@
   "name": "杜宇",
   "alias": ["Du Yu", "Đỗ Vũ"],
   "place": ["Jinan, Shandong Prov.", "Lanzhou, Gansu Prov."],
-  "role": "Master's Candidate in Computer Science & Technology at LZJTU",
+  "role": "Master's Candidate in Computer Sci.&Tech. at LZJTU",
   "advisor": "Professor Chen Mei",
   "education": {
     "MEng.": "Lanzhou Jiaotong University",
-    "BEng.": "Qilu University of Technology (Shandong Academy of Sciences)"
+    "BEng.": "Qilu University of Technology (SDAS)"
   },
   "research": [
     "Time Series Analysis",
