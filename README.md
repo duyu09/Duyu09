@@ -39,8 +39,8 @@
 {
   "name": "杜宇",
   "alias": ["Du Yu", "Đỗ Vũ"],
-  "place": ["Jinan, Shandong Prov.", "Lanzhou, Gansu Prov."],
-  "role": "Master's Candidate in Computer Sci.&Tech. at LZJTU",
+  "place": ["Jinan, Shandong", "Lanzhou, Gansu"],
+  "role": "Master's Candidate in Computer S.&T. at LZJTU",
   "advisor": "Professor Chen Mei",
   "education": {
     "MEng.": "Lanzhou Jiaotong University",
