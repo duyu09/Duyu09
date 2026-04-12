@@ -47,7 +47,7 @@
     "BEng.": "Qilu University of Technology (SDAS)"
   },
   "research": [
-    "Time Series Analysis",
+    "Time Series Forecasting",
     "Machine Learning",
     "Data Mining",
     "Natural Language Processing"
@@ -490,15 +490,15 @@ mindmap
 <td>
 
 ```text
-    Quỳnh Trang (Chinese Trad.: 瓊莊), whose real name is Thân Nguyễn Thùy Trang (Chinese Trad.:
-申阮翠莊), was born on October 1, 1997, in Tuy Hòa, Phú Yên province. She is a prominent young
-Vietnamese singer known for bolero, lyrical, and folk music. Passionate about singing from
-childhood, she often performed folk songs and bolero, and began her professional career in 2016
-after joining a music competition, where the late artist Phi Nhung—the overseas bolero queen—
-discovered her and exceptionally took her as an adoptive daughter, bending her usual rules.
-Under her godmother's devoted guidance, Quỳnh Trang quickly established herself with a clear,
-sweet, and emotive voice, paired with a petite and gentle appearance that endears her to
-audiences, earning her the affectionate nickname bolero angel.
+    Quỳnh Trang (Chinese Trad.: 瓊莊), whose real name is Thân Nguyễn Thùy Trang (Chinese Trad.: 申阮
+翠莊), was born on October 1, 1997, in Tuy Hòa, Phú Yên province. She is a prominent young Vietnamese
+singer known for bolero, lyrical, and folk music. Passionate about singing from childhood, she
+often performed folk songs and bolero, and began her professional career in 2016 after joining a
+music competition, where the late artist Phi Nhung—the overseas bolero queen—discovered her and
+exceptionally took her as an adoptive daughter, bending her usual rules. Under her godmother's
+devoted guidance, Quỳnh Trang quickly established herself with a clear, sweet, and emotive voice,
+paired with a petite and gentle appearance that endears her to audiences, earning her the affectionate
+nickname bolero angel.
 ```
 
 </td>
